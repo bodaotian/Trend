@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T22:54:38.753459+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2025-12-04T23:34:20.658217+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             14,
             11,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时40分 ~ 22时54分]"
+          "appearance_count": 12,
+          "time_info": "[14时40分 ~ 23时34分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -123,6 +124,18 @@
           "time_info": "[00时38分 ~ 01时29分]"
         },
         {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时34分]"
+        },
+        {
           "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
           "url": "https://flash.jin10.com/detail/20251204005558678800",
           "source": "金十数据",
@@ -158,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时41分]"
-        },
-        {
-          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
-          "url": "https://www.cls.cn/detail/2220060",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时54分]"
         },
         {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
