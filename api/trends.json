@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T17:31:16.262259+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2025-12-05T18:32:31.624015+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时10分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时10分 ~ 18时32分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时10分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时10分 ~ 18时32分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -57,6 +57,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 07时27分]"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 18时32分]"
         },
         {
           "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
@@ -85,18 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 04时33分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 17时31分]"
         },
         {
           "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
@@ -231,7 +231,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -355,11 +355,12 @@
             22,
             24,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 17时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时40分 ~ 18时32分]"
         }
       ]
     }
