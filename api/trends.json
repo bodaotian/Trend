@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T11:56:00.364597+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2025-12-05T12:37:39.109872+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 12时37分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -94,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 12时37分]"
         },
         {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
@@ -160,7 +160,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
