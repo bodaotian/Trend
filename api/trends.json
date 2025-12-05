@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T15:29:45.850439+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2025-12-05T16:38:32.099723+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 16时38分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 16时38分]"
         },
         {
           "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
@@ -96,6 +96,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时28分]"
+        },
+        {
+          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
+          "url": "https://www.cls.cn/detail/2220406",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时38分]"
         },
         {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
@@ -165,15 +177,37 @@
           "time_info": "13时30分"
         },
         {
-          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
-          "url": "https://www.cls.cn/detail/2220406",
-          "source": "财联社热门",
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "16时38分"
+        },
+        {
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "AI服务器需求“狂飙” 鸿海营收劲增26%",
+          "url": "https://flash.jin10.com/detail/20251205155316808800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "国民级 AI 应用（Super App）最有可能出现在哪些领域？",
@@ -187,6 +221,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "鸿海：AI机柜出货持续放量，ICT产品进入旺季，对于第四季的能见度优于前月。",
+          "url": "https://wallstreetcn.com/livenews/3015716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
           "url": "https://wallstreetcn.com/livenews/3015520",
           "source": "华尔街见闻-快讯",
@@ -196,6 +241,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 小米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息人士：印度政府正在审议电信行业的一项提案，该提案要求智能手机制造商必须启用始终在线的位置服务，以加强监控能力。苹果(AAPL.O)、谷歌(GOOG.O)、三星致函印度，因隐私担忧要求其勿接受电信提案，并警告其监管过度干预。",
+          "url": "https://flash.jin10.com/detail/20251205161256990800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     }
