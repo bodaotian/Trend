@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T05:27:02.435229+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-12-06T06:28:22.531995+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时28分]"
         },
         {
           "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
@@ -67,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宇宙",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "研究称宇宙大爆炸之前就有意识",
+          "url": "https://s.weibo.com/weibo?q=%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%AE%87%E5%AE%99%E5%A4%A7%E7%88%86%E7%82%B8%E4%B9%8B%E5%89%8D%E5%B0%B1%E6%9C%89%E6%84%8F%E8%AF%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     }
