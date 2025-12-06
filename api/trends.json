@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:26:19.513641+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-12-06T16:35:20.592894+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时26分 ~ 15时26分]"
+          "appearance_count": 11,
+          "time_info": "[07时26分 ~ 16时35分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时35分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -59,8 +59,21 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时35分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时26分]"
+          "time_info": "[13时28分 ~ 16时35分]"
         },
         {
           "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
@@ -102,18 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 10时03分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 15时26分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
