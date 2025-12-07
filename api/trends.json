@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T12:01:40.984226+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2025-12-07T13:27:30.795894+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时27分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时27分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时24分]"
+        },
+        {
+          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
+          "url": "https://flash.jin10.com/detail/20251207115626169800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },
@@ -101,6 +112,18 @@
       "keyword_group": "宇宙",
       "match_count": 2,
       "titles": [
+        {
+          "title": "天地玄黄 宇宙洪荒",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%9C%B0%E7%8E%84%E9%BB%84%20%E5%AE%87%E5%AE%99%E6%B4%AA%E8%8D%92&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时27分]"
+        },
         {
           "title": "为什么科学家不去解决宇宙终极问题，总是把一大堆尾巴留给哲学家去追问？",
           "url": "https://www.zhihu.com/question/1977054231597966681",
@@ -111,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        },
-        {
-          "title": "天地玄黄 宇宙洪荒",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%9C%B0%E7%8E%84%E9%BB%84%20%E5%AE%87%E5%AE%99%E6%B4%AA%E8%8D%92&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         }
       ]
     }
