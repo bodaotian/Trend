@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T18:34:26.543193+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2025-12-08T19:27:56.446504+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "ranks": [
             11,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时31分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 19时27分]"
         },
         {
           "title": "外媒关注中国发布全球首款AI手机",
