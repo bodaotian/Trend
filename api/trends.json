@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T03:25:45.605412+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-09T04:34:06.169999+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时34分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
