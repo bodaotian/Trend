@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T16:41:25.998042+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-09T17:33:25.378196+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[00时38分 ~ 10时10分]"
         },
         {
+          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
+          "url": "https://www.cls.cn/detail/2223631",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 17时33分]"
+        },
+        {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
           "url": "https://www.cls.cn/detail/2223368",
           "source": "财联社热门",
@@ -33,30 +46,18 @@
           "time_info": "[10时10分 ~ 15时33分]"
         },
         {
-          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
-          "url": "https://www.cls.cn/detail/2223631",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 16时41分]"
-        },
-        {
           "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
           "url": "https://www.zhihu.com/question/1980612606218756126",
           "source": "知乎",
           "ranks": [
             9,
             7,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 16时41分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 17时33分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -93,11 +94,25 @@
           "ranks": [
             20,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时29分 ~ 16时41分]"
+          "appearance_count": 8,
+          "time_info": "[13时29分 ~ 17时33分]"
+        },
+        {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 17时33分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -112,17 +127,17 @@
           "time_info": "[10时10分 ~ 14时44分]"
         },
         {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6,
-            2
+            20,
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 16时41分]"
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 17时33分]"
         },
         {
           "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
@@ -131,21 +146,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
-        },
-        {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 16时41分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -190,22 +193,24 @@
           "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 16时41分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时33分]"
         },
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
           "url": "https://wallstreetcn.com/articles/3760976",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时33分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -313,7 +318,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "原神剧情PV 未尽的笔墨",
@@ -323,8 +328,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 16时41分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 17时33分]"
+        },
+        {
+          "title": "原神一哥借崩铁事件高调撑右翼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347836&amp;topic_name=%E5%8E%9F%E7%A5%9E%E4%B8%80%E5%93%A5%E5%80%9F%E5%B4%A9%E9%93%81%E4%BA%8B%E4%BB%B6%E9%AB%98%E8%B0%83%E6%92%91%E5%8F%B3%E7%BF%BC",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "《原神》的旅行者在哪个国家地位最高？",
