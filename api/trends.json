@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T12:37:28.450041+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-12-09T13:31:01.341691+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -29,8 +29,58 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时37分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 13时31分]"
+        },
+        {
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 13时31分]"
+        },
+        {
+          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
+          "url": "https://www.cls.cn/detail/2223631",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 13时31分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 13时31分]"
+        },
+        {
+          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
+          "url": "https://www.cls.cn/detail/2223334",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 13时31分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -59,6 +109,18 @@
           "time_info": "[01时28分 ~ 03时25分]"
         },
         {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 13时31分]"
+        },
+        {
           "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
           "url": "https://flash.jin10.com/detail/20251209054059438800",
           "source": "金十数据",
@@ -71,53 +133,6 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
-          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
-          "url": "https://www.cls.cn/detail/2223631",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时37分]"
-        },
-        {
-          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
-          "url": "https://www.zhihu.com/question/1980286689260900620",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时37分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时37分]"
-        },
-        {
-          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
-          "url": "https://www.cls.cn/detail/2223334",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时37分]"
-        },
-        {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
           "url": "https://wallstreetcn.com/livenews/3017156",
           "source": "华尔街见闻-快讯",
@@ -128,17 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时28分]"
-        },
-        {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时37分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -163,6 +167,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时28分]"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时31分]"
+        },
+        {
+          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
+          "url": "https://wallstreetcn.com/livenews/3017390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -190,7 +216,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "原神剧情PV 未尽的笔墨",
@@ -199,9 +225,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 13时31分]"
+        },
+        {
+          "title": "《原神》的旅行者在哪个国家地位最高？",
+          "url": "https://www.zhihu.com/question/1979515909203849338",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时31分]"
         }
       ]
     }
