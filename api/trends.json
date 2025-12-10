@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T02:06:29.559139+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-12-11T02:42:09.870658+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -27,19 +27,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
@@ -48,7 +49,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -67,7 +68,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "原神一哥借崩铁事件高调撑右翼",
@@ -77,8 +78,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "原神少女入驻",
+          "url": "https://www.douyin.com/hot/2332207",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 02时42分]"
         }
       ]
     }
