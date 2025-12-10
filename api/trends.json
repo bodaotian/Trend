@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:34:37.810758+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-12-10T18:34:48.537601+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -87,6 +87,19 @@
           "time_info": "[01时28分 ~ 06时28分]"
         },
         {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时34分]"
+        },
+        {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
           "url": "https://flash.jin10.com/detail/20251210011305309800",
           "source": "金十数据",
@@ -98,6 +111,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "分析师：甲骨文面临AI泡沫质疑 债务风险尤其令人担忧",
+          "url": "https://flash.jin10.com/detail/20251210182317945800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "OpenAI：AAIF将作为Linux基金会下属的一个定向基金运营。",
           "url": "https://flash.jin10.com/detail/20251210011217599800",
           "source": "金十数据",
@@ -107,18 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
-          "url": "https://www.zhihu.com/question/1981300590727356751",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时34分]"
         },
         {
           "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
@@ -168,6 +180,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 17时34分]"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时34分]"
         },
         {
           "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
@@ -239,18 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时29分]"
-        },
-        {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时34分]"
         },
         {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
@@ -380,11 +393,12 @@
             13,
             15,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 17时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 18时34分]"
         },
         {
           "title": "原神剧情PV 未尽的笔墨",
@@ -411,8 +425,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时34分]"
         },
         {
           "title": "原神月之少女",
@@ -433,7 +447,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
