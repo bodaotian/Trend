@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T07:28:33.163559+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2025-12-10T10:33:43.911875+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时33分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时33分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -192,9 +193,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
@@ -250,6 +262,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "创业板指跌超2%，深成指跌超1%，沪指跌0.61%，AI应用、消费电子、算力硬件、存储芯片等方向跌幅居前，沪深京三市下跌个股超3900只。",
+          "url": "https://wallstreetcn.com/livenews/3018036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
@@ -262,11 +296,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347836&amp;topic_name=%E5%8E%9F%E7%A5%9E%E4%B8%80%E5%93%A5%E5%80%9F%E5%B4%A9%E9%93%81%E4%BA%8B%E4%BB%B6%E9%AB%98%E8%B0%83%E6%92%91%E5%8F%B3%E7%BF%BC",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时33分]"
         },
         {
           "title": "原神剧情PV 未尽的笔墨",
@@ -299,11 +334,12 @@
             16,
             28,
             22,
-            30
+            30,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 10时33分]"
         }
       ]
     }
