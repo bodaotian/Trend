@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T07:28:27.811130+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2025-12-12T10:17:43.890674+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 37,
+      "match_count": 47,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -27,11 +27,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 10时17分]"
+        },
+        {
+          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
+          "url": "https://wallstreetcn.com/articles/3761175",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
@@ -51,9 +63,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "实测ChatGPT5.2有多强",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BChatGPT5.2%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -147,9 +181,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
@@ -161,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
@@ -191,7 +247,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -213,9 +269,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
+          "url": "https://wallstreetcn.com/articles/3761169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
@@ -246,7 +313,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -257,7 +324,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -290,9 +357,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "OpenAI：正式推出GPT-5.2",
@@ -334,9 +412,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
@@ -416,6 +505,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "ChatGPT5.2正式发布",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们预计迪士尼合作将带来增量收入。",
           "url": "https://flash.jin10.com/detail/20251211234711697800",
           "source": "金十数据",
@@ -425,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
+          "url": "https://wallstreetcn.com/livenews/3019491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         }
       ]
     }
