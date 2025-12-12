@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:31:25.225239+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2025-12-12T16:40:54.984380+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时17分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时17分 ~ 16时40分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -44,11 +44,12 @@
             22,
             23,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 15时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 16时40分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -70,11 +71,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时17分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时17分 ~ 16时40分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -85,8 +87,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时17分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时17分 ~ 16时40分]"
+        },
+        {
+          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
+          "url": "https://www.cls.cn/detail/2227459",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 16时40分]"
         },
         {
           "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
@@ -146,6 +162,17 @@
           "time_info": "[12时01分 ~ 15时31分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 16时40分]"
+        },
+        {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
           "url": "https://wallstreetcn.com/livenews/3019365",
           "source": "华尔街见闻-快讯",
@@ -169,30 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
-          "url": "https://www.cls.cn/detail/2227459",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 15时31分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 15时31分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -254,6 +257,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时35分]"
+        },
+        {
+          "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
+          "url": "https://www.cls.cn/detail/2227456",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时40分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -358,6 +373,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "夸克AI眼镜紧急增产备货 2026年端侧AI新品有望加速落地",
+          "url": "https://www.cls.cn/detail/2227273",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "OpenAI：在ChatGPT中，GPT-5.2即时版、思考版和专业版将于今日开始推出，首先面向付费用户。",
           "url": "https://flash.jin10.com/detail/20251212020525246800",
           "source": "金十数据",
@@ -411,17 +437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
-        },
-        {
-          "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
-          "url": "https://www.cls.cn/detail/2227456",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "市场消息：博通(AVGO.O)不预计OpenAI会在2026年带来太多的营收。",
