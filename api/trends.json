@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T21:43:59.612471+08:00",
-  "total_titles_processed": 2023,
+  "generated_at": "2025-12-12T22:27:30.008249+08:00",
+  "total_titles_processed": 2091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时17分 ~ 21时43分]"
+          "appearance_count": 14,
+          "time_info": "[10时17分 ~ 22时27分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时17分 ~ 21时43分]"
+          "appearance_count": 14,
+          "time_info": "[10时17分 ~ 22时27分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时17分 ~ 21时43分]"
+          "appearance_count": 14,
+          "time_info": "[10时17分 ~ 22时27分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -69,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 21时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 22时27分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -141,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "美联储Hammack：美联储投入大量时间来研究AI。",
+          "url": "https://wallstreetcn.com/livenews/3020021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普：需要一个中央层面的AI审批框架。",
@@ -216,6 +227,18 @@
           "time_info": "[15时31分 ~ 17时34分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 22时27分]"
+        },
+        {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
           "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
@@ -225,6 +248,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 14时45分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 22时27分]"
         },
         {
           "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
@@ -252,18 +288,6 @@
           "time_info": "[05时30分 ~ 06时29分]"
         },
         {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 21时43分]"
-        },
-        {
           "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
           "url": "https://wallstreetcn.com/livenews/3019584",
           "source": "华尔街见闻-快讯",
@@ -275,18 +299,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 13时31分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 21时43分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -456,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
