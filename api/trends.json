@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:34:11.853390+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-12-12T18:33:32.870807+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时17分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时17分 ~ 18时33分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -41,11 +41,25 @@
             8,
             7,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时17分 ~ 18时33分]"
+        },
+        {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时17分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时17分 ~ 18时33分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -60,11 +74,12 @@
             25,
             24,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 17时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 18时33分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -78,18 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时17分 ~ 14时45分]"
-        },
-        {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时17分 ~ 17时34分]"
         },
         {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
@@ -113,8 +116,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 18时33分]"
         },
         {
           "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
@@ -560,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "对 AI 从业者和创业者来说，2026 会是一个好年吗？",
+          "url": "https://www.zhihu.com/question/1977067972511097434",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
