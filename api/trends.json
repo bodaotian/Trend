@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:28:21.887807+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-12-13T18:29:25.142590+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -41,8 +41,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时29分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[06时29分 ~ 18时29分]"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 18时29分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -54,19 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 06时29分]"
-        },
-        {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 17时28分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时27分 ~ 18时29分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -110,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 18时29分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -297,6 +298,19 @@
           "time_info": "[00时36分 ~ 01时28分]"
         },
         {
+          "title": "交警新装备：AI眼镜一眼看透车辆信息",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
+        },
+        {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
           "url": "https://www.zhihu.com/question/1982756499861304580",
           "source": "知乎",
@@ -318,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时28分]"
-        },
-        {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时28分]"
         },
         {
           "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
