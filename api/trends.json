@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:41:28.175207+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2025-12-14T15:27:24.607580+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 14时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 15时27分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -100,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 14时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 15时27分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -113,6 +113,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时26分]"
+        },
+        {
+          "title": "华尔街日报：OpenAI将取消员工股权归属期",
+          "url": "https://flash.jin10.com/detail/20251214105538781800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时27分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -128,18 +140,6 @@
           "time_info": "[00时34分 ~ 07时26分]"
         },
         {
-          "title": "华尔街日报：OpenAI将取消员工股权归属期",
-          "url": "https://flash.jin10.com/detail/20251214105538781800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时41分]"
-        },
-        {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -148,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 15时27分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -186,11 +186,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 15时27分]"
         }
       ]
     }
