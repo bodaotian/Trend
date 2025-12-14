@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T21:34:29.639796+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-14T22:26:56.516684+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -101,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时29分 ~ 21时34分]"
+          "appearance_count": 14,
+          "time_info": "[13时29分 ~ 22时26分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -164,11 +164,12 @@
             8,
             12,
             17,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 22时26分]"
         },
         {
           "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
@@ -222,8 +223,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时29分 ~ 21时34分]"
+          "appearance_count": 14,
+          "time_info": "[13时29分 ~ 22时26分]"
         }
       ]
     }
