@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:23:29.049297+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-12-14T20:55:17.679318+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -97,11 +97,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时29分 ~ 20时55分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -173,11 +174,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时55分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -219,8 +221,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时29分 ~ 20时55分]"
         }
       ]
     }
