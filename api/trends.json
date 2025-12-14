@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T16:36:15.519433+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2025-12-14T17:29:08.996877+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 16时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 17时29分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -87,8 +87,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 16时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 17时29分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -102,8 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 16时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 17时29分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -115,6 +115,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时26分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时29分 ~ 17时29分]"
         },
         {
           "title": "华尔街日报：OpenAI将取消员工股权归属期",
@@ -143,16 +155,16 @@
           "time_info": "[00时34分 ~ 07时26分]"
         },
         {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
+          "url": "https://www.zhihu.com/question/1982864642054250698",
+          "source": "知乎",
           "ranks": [
-            9,
-            6
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 17时29分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -165,17 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 12时04分]"
-        },
-        {
-          "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
-          "url": "https://www.zhihu.com/question/1982864642054250698",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -204,8 +205,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[13时29分 ~ 17时29分]"
         }
       ]
     }
