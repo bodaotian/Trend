@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T18:29:41.174673+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-12-14T19:23:29.049297+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,19 @@
           "time_info": "[00时34分 ~ 17时29分]"
         },
         {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时29分 ~ 19时23分]"
+        },
+        {
           "title": "媒体：“声音被偷”？滥用AI要不得",
           "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
           "source": "澎湃新闻",
@@ -104,19 +117,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时34分 ~ 18时29分]"
-        },
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时29分 ~ 18时29分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -168,6 +168,18 @@
           "time_info": "[16时35分 ~ 17时29分]"
         },
         {
+          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3020397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时23分]"
+        },
+        {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
           "url": "https://wallstreetcn.com/articles/3761330",
           "source": "华尔街见闻",
@@ -178,17 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 12时04分]"
-        },
-        {
-          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
-          "url": "https://wallstreetcn.com/livenews/3020397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -218,8 +219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时29分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时29分 ~ 19时23分]"
         }
       ]
     }
