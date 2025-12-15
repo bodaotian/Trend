@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T06:30:33.267462+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2025-12-16T07:29:21.017082+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时29分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 07时29分]"
         },
         {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时32分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时30分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：并没有看到AI领域之外的投资繁荣。 预计未来5-10年的生产力将高于均值水平。",
