@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T05:29:30.075070+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-12-16T06:30:33.267462+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时30分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -93,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时32分]"
+        },
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：并没有看到AI领域之外的投资繁荣。 预计未来5-10年的生产力将高于均值水平。",
@@ -174,7 +186,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
