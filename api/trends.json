@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:31:26.644448+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2025-12-16T16:42:15.736510+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 16时42分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 16时42分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -67,11 +67,12 @@
           "ranks": [
             11,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 16时42分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
