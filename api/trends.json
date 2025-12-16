@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T19:28:57.501854+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2025-12-16T21:02:56.434112+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时32分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 21时02分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 21时02分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时01分 ~ 21时02分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -95,7 +95,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -123,6 +123,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时32分]"
+        },
+        {
+          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
+          "url": "https://www.cls.cn/detail/2231043",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时02分]"
+        },
+        {
+          "title": "华尔街传来预警：AI繁荣将在明年“衰落”，标普500料大跌超20%！",
+          "url": "https://www.cls.cn/detail/2230952",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时02分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
@@ -161,30 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时32分]"
-        },
-        {
-          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
-          "url": "https://www.cls.cn/detail/2231043",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
-        },
-        {
-          "title": "华尔街传来预警：AI繁荣将在明年“衰落”，标普500料大跌超20%！",
-          "url": "https://www.cls.cn/detail/2230952",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：并没有看到AI领域之外的投资繁荣。 预计未来5-10年的生产力将高于均值水平。",
@@ -282,7 +282,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
