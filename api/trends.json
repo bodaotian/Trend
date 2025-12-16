@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T14:47:02.569771+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-12-16T15:31:26.644448+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时29分 ~ 14时47分]"
+          "appearance_count": 10,
+          "time_info": "[06时29分 ~ 15时31分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -35,15 +35,17 @@
           "time_info": "[00时42分 ~ 07时29分]"
         },
         {
-          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 15时31分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -55,20 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时47分]"
-        },
-        {
-          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
-          "url": "https://wallstreetcn.com/articles/3761466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时31分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -76,11 +66,23 @@
           "source": "知乎",
           "ranks": [
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时31分]"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
@@ -175,7 +177,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -186,7 +188,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -208,7 +210,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -296,6 +298,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "宇宙为什么要大费周章地创造对它毫无用处的生命？",
+          "url": "https://www.zhihu.com/question/439249174",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时20分 ~ 15时31分]"
+        },
+        {
           "title": "宇宙的结局会是什么",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E5%AE%99%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -305,19 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "宇宙为什么要大费周章地创造对它毫无用处的生命？",
-          "url": "https://www.zhihu.com/question/439249174",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时20分 ~ 14时47分]"
         }
       ]
     },
