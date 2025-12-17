@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T07:28:33.236230+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-12-17T10:10:15.409231+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 10时10分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -181,6 +181,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原神 火影忍者",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价《原神》中的龙王尼伯龙根？",
+          "url": "https://www.zhihu.com/question/1983556158112433437",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "如何评价《原神》月之三版本更新的「渊月螺旋」？",
+          "url": "https://www.zhihu.com/question/1984318273442058482",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         }
       ]
     }
