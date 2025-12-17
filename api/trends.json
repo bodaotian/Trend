@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:31:26.234939+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-12-17T16:41:09.013195+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -47,6 +47,20 @@
           "time_info": "[11时58分 ~ 15时31分]"
         },
         {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 16时41分]"
+        },
+        {
           "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
           "url": "https://flash.jin10.com/detail/20251217010715480800",
           "source": "金十数据",
@@ -83,19 +97,6 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 15时31分]"
-        },
-        {
           "title": "虞书欣ThaiMu",
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -130,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "券商晨会精华：消费领域建议关注国货崛起、AI+消费等结构性机会",
+          "url": "https://www.cls.cn/detail/2231626",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "成都35所中小学试点AI批改作业",
@@ -196,7 +208,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -262,7 +274,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
