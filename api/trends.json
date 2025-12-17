@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T10:10:15.409231+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2025-12-17T11:59:16.500444+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 10时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 11时59分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时40分 ~ 07时28分]"
+        },
+        {
+          "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
+          "url": "https://www.zhihu.com/question/1984358783053422759",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         },
         {
           "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
@@ -172,6 +183,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
+          "url": "https://flash.jin10.com/detail/20251217110034700800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -181,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "消息称OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。OpenAI还与亚马逊讨论了商业合作事宜。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },
@@ -193,11 +226,12 @@
           "url": "https://www.zhihu.com/question/1983556158112433437",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 11时59分]"
         },
         {
           "title": "如何评价《原神》月之三版本更新的「渊月螺旋」？",
