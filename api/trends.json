@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:59:24.756900+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2025-12-19T21:40:58.601869+08:00",
+  "total_titles_processed": 2010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -361,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
