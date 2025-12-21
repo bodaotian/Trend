@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:26:59.179968+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-21T23:27:39.547109+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时05分 ~ 22时26分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 23时27分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -119,8 +119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时29分 ~ 22时26分]"
+          "appearance_count": 13,
+          "time_info": "[13时29分 ~ 23时27分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -234,8 +234,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时26分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[10时26分 ~ 23时27分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -258,8 +258,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 22时26分]"
+          "appearance_count": 7,
+          "time_info": "[17时29分 ~ 23时27分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -268,9 +268,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
+          "ranks": [
+            15,
+            11,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 23时27分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -282,19 +296,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 04时29分]"
-        },
-        {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
-          "source": "抖音",
-          "ranks": [
-            15,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 20时55分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -319,6 +320,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时55分 ~ 22时26分]"
+        },
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "国家一级演奏员赏析AI歌曲",
@@ -354,17 +366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 12时05分]"
-        },
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
