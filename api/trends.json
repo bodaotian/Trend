@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:31:06.804819+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2025-12-22T23:32:13.555492+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,20 @@
           "time_info": "[00时34分 ~ 07时27分]"
         },
         {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时32分 ~ 23时32分]"
+        },
+        {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
           "url": "https://www.cls.cn/detail/2236150",
           "source": "财联社热门",
@@ -60,6 +74,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[15时32分 ~ 22时31分]"
+        },
+        {
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时42分 ~ 23时32分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -131,31 +156,6 @@
           "time_info": "[01时25分 ~ 17时38分]"
         },
         {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时32分 ~ 22时31分]"
-        },
-        {
-          "title": "AI定格|2025·强国脉动",
-          "url": "https://www.toutiao.com/trending/7586532944194502707/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 22时31分]"
-        },
-        {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
           "source": "凤凰网",
@@ -166,6 +166,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时33分 ~ 18时32分]"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 23时32分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -180,20 +194,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时38分 ~ 07时27分]"
-        },
-        {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 16时41分]"
         },
         {
           "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
