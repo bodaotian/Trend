@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T16:40:45.621150+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2025-12-23T17:35:07.034054+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             12,
             25,
             14,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 16时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 17时35分]"
         },
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -50,6 +51,39 @@
           "time_info": "[07时28分 ~ 15时32分]"
         },
         {
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时20分 ~ 17时35分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时20分 ~ 17时35分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时20分 ~ 17时35分]"
+        },
+        {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
           "url": "https://wallstreetcn.com/articles/3761823",
           "source": "华尔街见闻",
@@ -60,39 +94,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 10时20分]"
-        },
-        {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 16时40分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 16时40分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 16时40分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -169,6 +170,17 @@
           "time_info": "[03时24分 ~ 05时27分]"
         },
         {
+          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 17时35分]"
+        },
+        {
           "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
           "url": "https://wallstreetcn.com/livenews/3025118",
           "source": "华尔街见闻-快讯",
@@ -224,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
-        },
-        {
-          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         }
       ]
     }
