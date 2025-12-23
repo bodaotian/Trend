@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T05:27:57.987102+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-12-24T06:28:51.748162+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             20,
             25,
             10,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时28分 ~ 06时28分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
@@ -58,6 +59,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 01时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宇宙",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "有没有可能宇宙存在大统一理论，但是其表达式无法用有限的已有数学符号组合表达出来？",
+          "url": "https://www.zhihu.com/question/6841771714",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     }
