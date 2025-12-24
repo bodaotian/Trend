@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T10:12:50.370037+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2025-12-24T12:02:27.791088+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原神 火影忍者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "精日实锤?原神套用日本军衔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348312&amp;topic_name=%E7%B2%BE%E6%97%A5%E5%AE%9E%E9%94%A4%3F%E5%8E%9F%E7%A5%9E%E5%A5%97%E7%94%A8%E6%97%A5%E6%9C%AC%E5%86%9B%E8%A1%94",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
