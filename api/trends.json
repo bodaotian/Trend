@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T13:34:01.633196+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-12-24T14:47:33.707670+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -67,11 +67,12 @@
           "url": "https://www.zhihu.com/question/1986826913436680279",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 13时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 14时47分]"
         },
         {
           "title": "业内人士：港股配置性价比较高，看好国产AI龙头等方向",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
+          "url": "https://flash.jin10.com/detail/20251224133230351800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -96,11 +108,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 13时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 14时47分]"
         }
       ]
     },
