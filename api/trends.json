@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T00:36:25.804713+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-25T01:26:08.838370+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "精日实锤?原神套用日本军衔",
@@ -15,8 +15,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时26分]"
+        },
+        {
+          "title": "到目前为止《原神》5.6 角色主角各国的最高身份是什么？",
+          "url": "https://www.zhihu.com/question/1903925601447940509",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
         }
       ]
     },
