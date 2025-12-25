@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T21:40:04.778357+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2025-12-25T22:29:30.353510+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 21时40分]"
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 22时29分]"
         },
         {
           "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
@@ -97,11 +97,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时29分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -109,11 +110,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时58分 ~ 22时29分]"
+        },
+        {
+          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
+          "url": "https://wallstreetcn.com/articles/3762031",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时58分 ~ 21时40分]"
+          "time_info": "[21时39分 ~ 22时29分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -126,17 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时27分]"
-        },
-        {
-          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
-          "url": "https://wallstreetcn.com/articles/3762031",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
