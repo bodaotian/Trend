@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:30:40.541192+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-25T16:39:15.581883+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时20分 ~ 16时39分]"
+        },
+        {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时20分 ~ 15时30分]"
+          "time_info": "[13时33分 ~ 16时39分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -65,16 +78,15 @@
           "time_info": "[04时32分 ~ 06时29分]"
         },
         {
-          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
-          "url": "https://www.cls.cn/detail/2239492",
-          "source": "财联社热门",
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
           "ranks": [
-            13,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 15时30分]"
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -172,11 +184,12 @@
             21,
             24,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 15时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时39分]"
         },
         {
           "title": "到目前为止《原神》5.6 角色主角各国的最高身份是什么？",
