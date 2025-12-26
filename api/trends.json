@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:58:54.192980+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2025-12-26T21:40:53.867880+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI音乐MV绩效改进计划",
@@ -171,6 +171,17 @@
           "time_info": "[18时31分 ~ 18时32分]"
         },
         {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
           "url": "https://flash.jin10.com/detail/20251226064520664800",
           "source": "金十数据",
@@ -188,7 +199,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
