@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:27:26.351320+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-12-27T23:28:15.365568+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             7,
             3,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时27分]"
+          "appearance_count": 12,
+          "time_info": "[16时37分 ~ 23时28分]"
         },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -122,11 +123,12 @@
             5,
             12,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 23时28分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -141,6 +143,18 @@
           "time_info": "[07时27分 ~ 10时11分]"
         },
         {
+          "title": "AI医疗前景如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时28分]"
+        },
+        {
           "title": "华为悬赏300万元求解AI难题",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3AI%E9%9A%BE%E9%A2%98%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -150,24 +164,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "AI医疗前景如何",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         }
       ]
     },
     {
       "keyword_group": "宇宙",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "这是宇宙对我2026的剧透",
+          "url": "https://www.douyin.com/hot/2349234",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
+        },
         {
           "title": "我的2026宇宙启示",
           "url": "https://www.douyin.com/hot/2349234",
@@ -175,7 +189,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -186,7 +200,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
