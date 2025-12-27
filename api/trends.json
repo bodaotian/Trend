@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-27T20:56:24.124978+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-12-27T21:35:49.157635+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
       "match_count": 10,
       "titles": [
+        {
+          "title": "如何看待李蒙疑似在围棋杀猪大会使用 ai 眼镜作弊?",
+          "url": "https://www.zhihu.com/question/1987661697423517255",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 21时35分]"
+        },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
           "url": "https://www.cls.cn/detail/2241363",
@@ -39,19 +52,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时34分 ~ 18时30分]"
-        },
-        {
-          "title": "如何看待李蒙疑似在围棋杀猪大会使用 ai 眼镜作弊?",
-          "url": "https://www.zhihu.com/question/1987661697423517255",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时37分 ~ 20时56分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -131,11 +131,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时56分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时35分]"
         },
         {
           "title": "华为悬赏300万元求解AI难题",
