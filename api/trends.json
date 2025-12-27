@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-28T02:39:12.187459+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2025-12-28T03:22:52.551016+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "原神 火影忍者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价《原神》于 2025 年 12 月 27 日中午发布的动态？",
+          "url": "https://www.zhihu.com/question/1988252332119569344",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "宇宙",
       "match_count": 1,
@@ -13,11 +30,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时22分]"
         }
       ]
     },
@@ -34,8 +52,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时22分]"
         }
       ]
     }
