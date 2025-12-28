@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-29T06:28:55.184732+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-29T07:28:11.269524+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时28分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时28分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -39,8 +40,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时28分]"
+        },
+        {
+          "title": "ChatGPT帮他杀死83岁母亲？",
+          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         }
       ]
     }
