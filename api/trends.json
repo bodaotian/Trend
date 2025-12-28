@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T12:13:57.391213+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-12-28T13:34:11.055695+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -26,11 +26,25 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 13时34分]"
+        },
+        {
+          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
+          "url": "https://wallstreetcn.com/articles/3762183",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 13时34分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -45,17 +59,15 @@
           "time_info": "[10时32分 ~ 12时13分]"
         },
         {
-          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
-          "url": "https://wallstreetcn.com/articles/3762183",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 12时13分]"
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
@@ -106,11 +118,12 @@
             18,
             19,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 12时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时34分]"
         }
       ]
     }
