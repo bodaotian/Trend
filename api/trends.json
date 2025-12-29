@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T05:27:37.119316+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-30T06:28:50.142997+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -41,11 +41,12 @@
             18,
             8,
             9,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时28分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -56,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 06时28分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -71,8 +72,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 06时28分]"
         },
         {
           "title": "“AI教父”拉响警报",
