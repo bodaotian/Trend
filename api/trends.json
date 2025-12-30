@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T04:33:23.831085+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-12-31T05:29:12.596325+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 05时29分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             11,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 05时29分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -41,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 05时29分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -52,8 +53,32 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 05时29分]"
+        },
+        {
+          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
+          "url": "https://www.zhihu.com/question/1988712550200808371",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时33分]"
+          "time_info": "[02时43分 ~ 05时29分]"
+        },
+        {
+          "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
+          "url": "https://wallstreetcn.com/livenews/3028923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -61,11 +86,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时29分]"
         },
         {
           "title": "Meta收购Manus AI的交易价值可能高达25亿美元",
@@ -78,18 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时24分]"
-        },
-        {
-          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
-          "url": "https://www.zhihu.com/question/1988712550200808371",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 04时33分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -116,6 +130,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时33分]"
+        },
+        {
+          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
+          "url": "https://wallstreetcn.com/livenews/3028914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
