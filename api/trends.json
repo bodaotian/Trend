@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T16:40:27.400016+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-12-30T17:34:50.449150+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -18,6 +18,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时28分]"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            4,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 17时34分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -65,22 +81,6 @@
           "time_info": "[01时26分 ~ 10时21分]"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            4,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 16时40分]"
-        },
-        {
           "title": "用一个字证明自己不是AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
@@ -106,8 +106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 16时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 17时34分]"
         },
         {
           "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
@@ -131,11 +131,12 @@
             4,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 16时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 17时34分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -144,11 +145,23 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 16时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 17时34分]"
+        },
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "泰柬与AI如何影响全球经济",
@@ -223,6 +236,18 @@
           "time_info": "[07时28分 ~ 10时21分]"
         },
         {
+          "title": "周鸿祎：AI圈被图灵奖得主掀桌子了",
+          "url": "https://www.toutiao.com/trending/7589489836612931108/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时34分]"
+        },
+        {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
           "url": "https://flash.jin10.com/detail/20251230062733774800",
           "source": "金十数据",
@@ -245,15 +270,15 @@
           "time_info": "07时28分"
         },
         {
-          "title": "周鸿祎：AI圈被图灵奖得主掀桌子了",
-          "url": "https://www.toutiao.com/trending/7589489836612931108/",
-          "source": "今日头条",
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
           "ranks": [
-            25
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "17时34分"
         }
       ]
     }
