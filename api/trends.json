@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T05:27:30.016138+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-01T06:30:49.745056+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时27分]"
+        },
+        {
+          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -78,8 +89,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "原神伴月同眠中文版首唱",
@@ -91,8 +102,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "跨晚唱响原神五周年主题曲回家的路",
@@ -105,8 +116,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时30分]"
         }
       ]
     },
@@ -127,8 +138,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时30分]"
         },
         {
           "title": "如何评价柯汶利导演「杀」宇宙系列新片《匿杀》？",
