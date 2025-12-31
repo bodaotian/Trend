@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T18:32:16.855560+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-31T19:27:11.071852+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,23 @@
           "time_info": "[00时38分 ~ 10时21分]"
         },
         {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            14,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时04分 ~ 19时27分]"
+        },
+        {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
           "url": "https://www.cls.cn/detail/2244203",
           "source": "财联社热门",
@@ -80,22 +97,6 @@
           "time_info": "[00时38分 ~ 13时34分]"
         },
         {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时04分 ~ 18时32分]"
-        },
-        {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
           "url": "https://www.cls.cn/detail/2245117",
           "source": "财联社热门",
@@ -107,6 +108,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时46分 ~ 18时32分]"
+        },
+        {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 19时27分]"
         },
         {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
@@ -145,16 +159,16 @@
           "time_info": "[02时43分 ~ 03时24分]"
         },
         {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时33分 ~ 18时32分]"
+          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -252,17 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
@@ -463,11 +466,12 @@
             23,
             26,
             25,
-            24
+            24,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 19时27分]"
         }
       ]
     }
