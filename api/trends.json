@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T22:29:33.522785+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2025-12-31T23:30:58.199425+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -53,6 +53,21 @@
           "time_info": "[00时38分 ~ 10时21分]"
         },
         {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时33分 ~ 23时30分]"
+        },
+        {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
           "source": "澎湃新闻",
@@ -67,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时04分 ~ 22时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时04分 ~ 23时30分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -98,20 +113,6 @@
           "time_info": "[00时38分 ~ 13时34分]"
         },
         {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时33分 ~ 22时29分]"
-        },
-        {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
           "url": "https://www.cls.cn/detail/2245628",
           "source": "财联社热门",
@@ -122,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时29分]"
+          "appearance_count": 9,
+          "time_info": "[18时31分 ~ 23时30分]"
         },
         {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
@@ -361,6 +362,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
+          "url": "https://wallstreetcn.com/livenews/3029406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
           "url": "https://wallstreetcn.com/livenews/3029042",
           "source": "华尔街见闻-快讯",
@@ -441,7 +453,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "原神",
@@ -453,6 +465,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "跨晚唱响原神五周年主题曲回家的路",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%A8%E6%99%9A%E5%94%B1%E5%93%8D%E5%8E%9F%E7%A5%9E%E4%BA%94%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%9B%B2%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "张韶涵跨年献唱原神少女歌曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B7%A8%E5%B9%B4%E7%8C%AE%E5%94%B1%E5%8E%9F%E7%A5%9E%E5%B0%91%E5%A5%B3%E6%AD%8C%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "原神伴月同眠中文版首唱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E4%BC%B4%E6%9C%88%E5%90%8C%E7%9C%A0%E4%B8%AD%E6%96%87%E7%89%88%E9%A6%96%E5%94%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "如何评价《原神》「空月之歌 · 终曲」如果在冬夜，一个旅人前瞻节目预告？",
@@ -482,11 +527,12 @@
             26,
             25,
             24,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时21分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[10时21分 ~ 23时30分]"
         }
       ]
     }
