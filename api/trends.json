@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T15:31:40.635998+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2025-12-31T16:40:41.984623+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,21 @@
           "time_info": "05时29分"
         },
         {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 16时40分]"
+        },
+        {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
           "url": "https://wallstreetcn.com/livenews/3028896",
           "source": "华尔街见闻-快讯",
@@ -116,20 +131,6 @@
           "time_info": "[02时43分 ~ 03时24分]"
         },
         {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时04分 ~ 15时31分]"
-        },
-        {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
           "url": "https://wallstreetcn.com/livenews/3028884",
           "source": "华尔街见闻-快讯",
@@ -141,6 +142,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时33分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 16时40分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -168,6 +181,18 @@
           "time_info": "[12时04分 ~ 13时34分]"
         },
         {
+          "title": "夸克AI眼镜发布大模型多意图理解执行、蓝环支付等五项功能更新",
+          "url": "https://wallstreetcn.com/livenews/3029160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时40分]"
+        },
+        {
           "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
           "url": "https://www.cls.cn/detail/2244751",
           "source": "财联社热门",
@@ -178,17 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时34分]"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时31分]"
         },
         {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
@@ -236,17 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "夸克AI眼镜发布大模型多意图理解执行、蓝环支付等五项功能更新",
-          "url": "https://wallstreetcn.com/livenews/3029160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "创业板指半日跌超1%，AI应用端逆势走强。 恒指今日收跌0.87%，恒生科技指数跌1.12%。 芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%。 国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑。 国家发改委：2026年提前批“两重”项目安排约2200亿元，支持城市地下管网等281个项目。 荷兰经济大臣称对安世半导体采取强硬措施确有必要，商务部回应：荷方切勿一意孤行。 重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2。 中国12月RatingDog制造业PMI 50.1，新出口订单在近3个月来第二次下降。",
@@ -395,7 +398,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "原神",
@@ -407,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "如何评价《原神》「空月之歌 · 终曲」如果在冬夜，一个旅人前瞻节目预告？",
+          "url": "https://www.zhihu.com/question/1989691842825048992",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -422,11 +436,12 @@
             21,
             22,
             23,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 16时40分]"
         }
       ]
     }
