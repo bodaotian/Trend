@@ -1,482 +1,62 @@
 {
-  "generated_at": "2025-12-31T23:30:58.199425+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2026-01-01T00:36:39.776527+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 36,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时04分]"
-        },
-        {
-          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
-          "url": "https://www.zhihu.com/question/1988712550200808371",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18,
-            15,
-            14,
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时43分 ~ 15时31分]"
-        },
-        {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            11,
-            22,
-            10,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时21分]"
-        },
-        {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时33分 ~ 23时30分]"
-        },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            18,
-            15,
-            14,
-            13,
-            11,
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时04分 ~ 23时30分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 07时28分]"
-        },
-        {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 13时34分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
           "url": "https://www.cls.cn/detail/2245628",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时31分 ~ 23时30分]"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 18时32分]"
-        },
-        {
-          "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
-          "url": "https://wallstreetcn.com/livenews/3028923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "00时36分"
         },
         {
-          "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
-          "url": "https://wallstreetcn.com/livenews/3028896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时29分]"
-        },
-        {
-          "title": "Meta收购Manus AI的交易价值可能高达25亿美元",
-          "url": "https://flash.jin10.com/detail/20251231021704872800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时24分]"
-        },
-        {
-          "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3028884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时33分]"
-        },
-        {
-          "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
-          "url": "https://wallstreetcn.com/livenews/3028878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时33分]"
-        },
-        {
-          "title": "12月31日午间收评：创业板指半日跌超1%，AI应用端逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3029072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时34分]"
-        },
-        {
-          "title": "夸克AI眼镜发布大模型多意图理解执行、蓝环支付等五项功能更新",
-          "url": "https://wallstreetcn.com/livenews/3029160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时40分]"
-        },
-        {
-          "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
-          "url": "https://www.cls.cn/detail/2244751",
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
           "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时34分]"
-        },
-        {
-          "title": "阿里千问Qwen Code重磅更新：让AI编程跳出命令行",
-          "url": "https://wallstreetcn.com/articles/3762335",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时29分]"
-        },
-        {
-          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
-          "url": "https://wallstreetcn.com/livenews/3028914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
-          "title": "亚马逊：将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3028930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
-          "url": "https://www.cls.cn/detail/2244555",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://flash.jin10.com/detail/20251231052550783800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "创业板指半日跌超1%，AI应用端逆势走强。 恒指今日收跌0.87%，恒生科技指数跌1.12%。 芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%。 国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑。 国家发改委：2026年提前批“两重”项目安排约2200亿元，支持城市地下管网等281个项目。 荷兰经济大臣称对安世半导体采取强硬措施确有必要，商务部回应：荷方切勿一意孤行。 重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2。 中国12月RatingDog制造业PMI 50.1，新出口订单在近3个月来第二次下降。",
-          "url": "https://wallstreetcn.com/livenews/3029088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "字节跳动旗下海外AI助手Dola日活破千万",
-          "url": "https://wallstreetcn.com/livenews/3029107",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
-          "url": "https://flash.jin10.com/detail/20251231015607378800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "产值冲刺8000亿元，全球市场占比近54%，新型显示从“链式生态” 迈向“AI+显示”新纪元",
-          "url": "https://wallstreetcn.com/livenews/3028945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "据The Information：马斯克的xAI已在田纳西州孟菲斯郊外购买了一栋大楼，用于其计划建设的第三座超大规模数据中心。",
-          "url": "https://flash.jin10.com/detail/20251231025925842800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
-          "url": "https://wallstreetcn.com/livenews/3028923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "00时36分"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
           "url": "https://wallstreetcn.com/livenews/3029406",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
-          "url": "https://wallstreetcn.com/livenews/3029042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "AI公司MiniMax寻求通过香港IPO融资将近42亿港元",
-          "url": "https://wallstreetcn.com/livenews/3028938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
-          "url": "https://flash.jin10.com/detail/20251231012608769800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
-          "url": "https://flash.jin10.com/detail/20251231011253846800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "顶级投资人段永平看好AI医疗",
-          "url": "https://wallstreetcn.com/livenews/3028830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
-          "url": "https://wallstreetcn.com/livenews/3028826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "据灯塔专业版AI票房预测，影片《疯狂动物城2》预测总票房达42.60亿，有望超过《复仇者联盟4：终局之战》累计票房42.50亿。",
-          "url": "https://wallstreetcn.com/livenews/3028996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时21分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "原神",
-          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "跨晚唱响原神五周年主题曲回家的路",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B7%A8%E6%99%9A%E5%94%B1%E5%93%8D%E5%8E%9F%E7%A5%9E%E4%BA%94%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%9B%B2%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时29分 ~ 23时30分]"
-        },
         {
           "title": "张韶涵跨年献唱原神少女歌曲",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B7%A8%E5%B9%B4%E7%8C%AE%E5%94%B1%E5%8E%9F%E7%A5%9E%E5%B0%91%E5%A5%B3%E6%AD%8C%E6%9B%B2",
@@ -485,30 +65,30 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时29分 ~ 23时30分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "原神伴月同眠中文版首唱",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E4%BC%B4%E6%9C%88%E5%90%8C%E7%9C%A0%E4%B8%AD%E6%96%87%E7%89%88%E9%A6%96%E5%94%B1",
           "source": "bilibili 热搜",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时29分 ~ 23时30分]"
-        },
-        {
-          "title": "如何评价《原神》「空月之歌 · 终曲」如果在冬夜，一个旅人前瞻节目预告？",
-          "url": "https://www.zhihu.com/question/1989691842825048992",
-          "source": "知乎",
-          "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "00时36分"
+        },
+        {
+          "title": "跨晚唱响原神五周年主题曲回家的路",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%A8%E6%99%9A%E5%94%B1%E5%93%8D%E5%8E%9F%E7%A5%9E%E4%BA%94%E5%91%A8%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%9B%B2%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
@@ -521,18 +101,11 @@
           "url": "https://www.douyin.com/hot/2352556",
           "source": "抖音",
           "ranks": [
-            21,
-            22,
-            23,
-            26,
-            25,
-            24,
-            11,
-            28
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时21分 ~ 23时30分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
