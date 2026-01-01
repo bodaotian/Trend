@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:29:52.647643+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-02T07:28:59.840692+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时28分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时28分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时28分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -125,11 +125,12 @@
           "ranks": [
             18,
             22,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 07时28分]"
         },
         {
           "title": "如何评价 2026《原神》FES？",
