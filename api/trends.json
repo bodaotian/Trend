@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:26:29.778450+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-01-01T20:59:53.810555+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时33分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[10时33分 ~ 20时59分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -67,8 +67,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时14分 ~ 20时59分]"
+        },
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时46分 ~ 20时59分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -105,18 +117,6 @@
           "time_info": "[00时36分 ~ 07时28分]"
         },
         {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时46分 ~ 19时26分]"
-        },
-        {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
           "url": "https://wallstreetcn.com/articles/3762372",
           "source": "华尔街见闻",
@@ -139,8 +139,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时59分]"
         },
         {
           "title": "回顾 2025，你认为 AI 行业里哪一件事或成果是行业的重要节点？",
@@ -277,7 +277,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -288,7 +288,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         }
