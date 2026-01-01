@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:33:30.559861+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-01-02T05:28:32.626050+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时28分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时28分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时28分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -48,11 +48,12 @@
             8,
             12,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 05时28分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -62,11 +63,12 @@
             11,
             15,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 05时28分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -115,6 +117,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "当雪地唢呐配上原神少女",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E9%9B%AA%E5%9C%B0%E5%94%A2%E5%91%90%E9%85%8D%E4%B8%8A%E5%8E%9F%E7%A5%9E%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 05时28分]"
+        },
+        {
           "title": "如何评价 2026《原神》FES？",
           "url": "https://www.zhihu.com/question/1989956123067966089",
           "source": "知乎",
@@ -127,19 +142,6 @@
           "time_info": "[02时41分 ~ 03时24分]"
         },
         {
-          "title": "当雪地唢呐配上原神少女",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E9%9B%AA%E5%9C%B0%E5%94%A2%E5%91%90%E9%85%8D%E4%B8%8A%E5%8E%9F%E7%A5%9E%E5%B0%91%E5%A5%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时41分]"
-        },
-        {
           "title": "张韶涵王铮亮联手献唱原神",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%8E%8B%E9%93%AE%E4%BA%AE%E8%81%94%E6%89%8B%E7%8C%AE%E5%94%B1%E5%8E%9F%E7%A5%9E",
           "source": "bilibili 热搜",
@@ -149,8 +151,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 05时28分]"
         },
         {
           "title": "原神伴月同眠中文版首唱",
@@ -159,7 +161,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         }
