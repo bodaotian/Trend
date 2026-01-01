@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T12:15:10.310633+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-01-01T13:36:32.688704+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -46,11 +46,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 13时36分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -58,11 +59,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 13时36分]"
         },
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
@@ -73,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 13时36分]"
         },
         {
           "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
@@ -85,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 13时36分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -96,8 +98,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 13时36分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时33分 ~ 12时15分]"
+          "time_info": "[12时14分 ~ 13时36分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -123,15 +136,15 @@
           "time_info": "[04时32分 ~ 05时27分]"
         },
         {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.toutiao.com/trending/7589768798652514310/",
-          "source": "今日头条",
+          "title": "玲音Lain OST原唱入驻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B2%E9%9F%B3Lain%20OST%E5%8E%9F%E5%94%B1%E5%85%A5%E9%A9%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -148,7 +161,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "张韶涵跨年献唱原神少女歌曲",
@@ -157,11 +170,12 @@
           "ranks": [
             21,
             25,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 13时36分]"
         },
         {
           "title": "原神伴月同眠中文版首唱",
@@ -191,6 +205,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时28分]"
+        },
+        {
+          "title": "原神FES现场直播",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EFES%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
@@ -214,8 +239,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 12时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 13时36分]"
         },
         {
           "title": "如何评价柯汶利导演「杀」宇宙系列新片《匿杀》？",
