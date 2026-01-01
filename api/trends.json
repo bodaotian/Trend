@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T18:33:01.771749+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-01-01T19:26:29.778450+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 19时26分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -55,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 19时26分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -66,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 19时26分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -112,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 18时33分]"
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 19时26分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -138,8 +139,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 19时26分]"
         },
         {
           "title": "回顾 2025，你认为 AI 行业里哪一件事或成果是行业的重要节点？",
@@ -212,7 +213,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "张韶涵跨年献唱原神少女歌曲",
@@ -268,6 +269,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 14时46分]"
+        },
+        {
+          "title": "张韶涵王铮亮联手献唱原神",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%8E%8B%E9%93%AE%E4%BA%AE%E8%81%94%E6%89%8B%E7%8C%AE%E5%94%B1%E5%8E%9F%E7%A5%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "当雪地唢呐配上原神少女",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E9%9B%AA%E5%9C%B0%E5%94%A2%E5%91%90%E9%85%8D%E4%B8%8A%E5%8E%9F%E7%A5%9E%E5%B0%91%E5%A5%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
