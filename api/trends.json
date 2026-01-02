@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T19:26:32.866761+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-01-02T20:58:52.300605+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 19时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 20时58分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -45,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 20时58分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -57,11 +57,12 @@
             15,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 19时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 20时58分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -112,11 +113,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 20时58分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -124,11 +126,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 20时58分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -206,6 +209,28 @@
           "time_info": "16时40分"
         },
         {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "给AI内容“卸妆”一眼辨真伪",
           "url": "https://www.douyin.com/hot/2354033",
           "source": "抖音",
@@ -220,7 +245,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "当雪地唢呐配上原神少女",
@@ -248,6 +273,20 @@
           "time_info": "13时35分"
         },
         {
+          "title": "原神月之四版本前瞻",
+          "url": "https://www.douyin.com/hot/2355316",
+          "source": "抖音",
+          "ranks": [
+            19,
+            13,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 20时58分]"
+        },
+        {
           "title": "如何评价 2026《原神》FES？",
           "url": "https://www.zhihu.com/question/1989956123067966089",
           "source": "知乎",
@@ -258,19 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时24分]"
-        },
-        {
-          "title": "原神月之四版本前瞻",
-          "url": "https://www.douyin.com/hot/2355316",
-          "source": "抖音",
-          "ranks": [
-            19,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时26分]"
         },
         {
           "title": "张韶涵王铮亮联手献唱原神",
@@ -308,6 +334,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时35分]"
+        },
+        {
+          "title": "如何评价《原神》月之四版本【如果在冬夜， 一个旅人】前瞻特别节目？",
+          "url": "https://www.zhihu.com/question/1990424007267352873",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "原神前瞻",
