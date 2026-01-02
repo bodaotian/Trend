@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T12:08:31.880411+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-01-02T13:35:34.440878+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 12时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时35分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -28,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 12时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时35分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -80,11 +81,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时35分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -132,11 +134,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时35分]"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -154,7 +157,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "当雪地唢呐配上原神少女",
@@ -169,6 +172,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 07时28分]"
+        },
+        {
+          "title": "原神月之四前瞻直播",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E6%9C%88%E4%B9%8B%E5%9B%9B%E5%89%8D%E7%9E%BB%E7%9B%B4%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "如何评价 2026《原神》FES？",
@@ -200,11 +214,12 @@
           "url": "https://www.zhihu.com/question/1989957488091620476",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时35分]"
         },
         {
           "title": "原神伴月同眠中文版首唱",
