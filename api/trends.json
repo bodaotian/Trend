@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-01-03T19:24:25.684304+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-01-03T20:56:56.314729+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
       "match_count": 18,
       "titles": [
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 13时31分]"
-        },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
           "url": "https://wallstreetcn.com/articles/3762468",
@@ -32,8 +19,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[14时42分 ~ 20时56分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 13时31分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -155,6 +155,19 @@
           "time_info": "[11时59分 ~ 16时37分]"
         },
         {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时56分]"
+        },
+        {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
           "url": "https://flash.jin10.com/detail/20260103013040455800",
           "source": "金十数据",
@@ -177,20 +190,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 19时24分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 20时56分]"
         },
         {
           "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
@@ -263,11 +264,12 @@
             14,
             22,
             23,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时40分 ~ 20时56分]"
         },
         {
           "title": "原神月之四版本前瞻",
