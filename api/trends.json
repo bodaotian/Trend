@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-03T11:59:57.780192+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-01-03T12:41:15.335740+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
       "match_count": 14,
       "titles": [
-        {
-          "title": "AI如何让闪迪成为股王",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时26分 ~ 11时59分]"
-        },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
           "url": "https://wallstreetcn.com/articles/3762451",
@@ -29,8 +17,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 12时41分]"
+        },
+        {
+          "title": "AI如何让闪迪成为股王",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时26分 ~ 12时41分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -54,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 12时41分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -100,8 +101,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 11时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 12时41分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
@@ -123,11 +124,12 @@
           "ranks": [
             1,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时41分]"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
@@ -163,11 +165,12 @@
           "ranks": [
             15,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 11时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时41分]"
         },
         {
           "title": "“高考AI押题命中率98%”系谣言",
@@ -176,15 +179,15 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 12时41分]"
         }
       ]
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "原神月之四版本前瞻",
@@ -226,6 +229,17 @@
           "time_info": "[01时26分 ~ 03时20分]"
         },
         {
+          "title": "原神提瓦特风尚衣装PV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E6%8F%90%E7%93%A6%E7%89%B9%E9%A3%8E%E5%B0%9A%E8%A1%A3%E8%A3%85PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
           "title": "如何评价《原神》月之四版本【如果在冬夜， 一个旅人】前瞻特别节目？",
           "url": "https://www.zhihu.com/question/1990424007267352873",
           "source": "知乎",
@@ -235,6 +249,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宇宙",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇宙闪烁请注意",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81%E8%AF%B7%E6%B3%A8%E6%84%8F&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         }
       ]
     }
