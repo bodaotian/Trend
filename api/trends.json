@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T22:27:31.088033+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-01-04T23:28:15.941525+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -47,11 +47,12 @@
             5,
             9,
             10,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时16分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[12时16分 ~ 23时28分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -144,6 +145,17 @@
           "time_info": "[01时26分 ~ 02时39分]"
         },
         {
+          "title": "年度抽象AI作品Top10",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
+        },
+        {
           "title": "AI时代老艺术家依然坚持手搓",
           "url": "https://s.weibo.com/weibo?q=AI%E6%97%B6%E4%BB%A3%E8%80%81%E8%89%BA%E6%9C%AF%E5%AE%B6%E4%BE%9D%E7%84%B6%E5%9D%9A%E6%8C%81%E6%89%8B%E6%90%93&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -158,7 +170,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "原神现六指立绘,米学长甩锅鸣潮",
@@ -168,8 +180,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[21时36分 ~ 23时28分]"
         },
         {
           "title": "如何看待 2026 年原神 FES 鸡哥透露原神动画一直在稳定推进，没有意外？",
@@ -181,6 +193,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 03时23分]"
+        },
+        {
+          "title": "在原神FES解冻那个男人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%8E%9F%E7%A5%9EFES%E8%A7%A3%E5%86%BB%E9%82%A3%E4%B8%AA%E7%94%B7%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 23时28分]"
         },
         {
           "title": "原神FES现场抓到大伟哥",
@@ -207,15 +230,15 @@
           "time_info": "[19时24分 ~ 20时57分]"
         },
         {
-          "title": "在原神FES解冻那个男人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%8E%9F%E7%A5%9EFES%E8%A7%A3%E5%86%BB%E9%82%A3%E4%B8%AA%E7%94%B7%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "如何评价《原神》月之四版本前瞻海报中木偶桑多涅的表情？",
+          "url": "https://www.zhihu.com/question/1989687386679052250",
+          "source": "知乎",
           "ranks": [
-            24
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
         }
       ]
     }
