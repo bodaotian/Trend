@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T00:35:05.072902+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-05T01:25:54.254017+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时25分]"
+        },
+        {
+          "title": "在原神FES解冻那个男人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%8E%9F%E7%A5%9EFES%E8%A7%A3%E5%86%BB%E9%82%A3%E4%B8%AA%E7%94%B7%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时25分]"
         },
         {
           "title": "如何评价《原神》月之四版本前瞻海报中木偶桑多涅的表情？",
@@ -24,17 +36,6 @@
           "source": "知乎",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "在原神FES解冻那个男人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%8E%9F%E7%A5%9EFES%E8%A7%A3%E5%86%BB%E9%82%A3%E4%B8%AA%E7%94%B7%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -54,19 +55,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时25分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
           "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时25分]"
         }
       ]
     }
