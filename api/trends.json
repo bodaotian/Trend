@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T03:23:21.902958+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-01-05T04:32:58.551306+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "在原神FES解冻那个男人",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "如何评价《原神》月之四版本前瞻海报中木偶桑多涅的表情？",
@@ -55,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -69,8 +70,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时32分]"
         }
       ]
     }
