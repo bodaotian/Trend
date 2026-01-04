@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T21:37:01.829593+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-01-04T22:27:31.088033+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
@@ -86,11 +86,12 @@
           "ranks": [
             19,
             16,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时27分]"
         },
         {
           "title": "有网友称收到苹果AI国行版升级通知，官方回应",
@@ -167,8 +168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时27分]"
         },
         {
           "title": "如何看待 2026 年原神 FES 鸡哥透露原神动画一直在稳定推进，没有意外？",
