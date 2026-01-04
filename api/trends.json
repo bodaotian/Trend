@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T17:29:07.331474+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-01-04T18:29:50.788005+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
             2,
             4,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 18时29分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -69,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时29分]"
         },
         {
           "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
@@ -88,6 +90,31 @@
           "time_info": "[10时34分 ~ 12时16分]"
         },
         {
+          "title": "AI如何让闪迪成为股王",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 18时29分]"
+        },
+        {
+          "title": "有网友称收到苹果AI国行版升级通知，官方回应",
+          "url": "https://flash.jin10.com/detail/20260104162200603800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时29分]"
+        },
+        {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
           "url": "https://wallstreetcn.com/livenews/3030130",
           "source": "华尔街见闻-快讯",
@@ -98,29 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时39分]"
-        },
-        {
-          "title": "AI如何让闪迪成为股王",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 16时38分]"
-        },
-        {
-          "title": "有网友称收到苹果AI国行版升级通知，官方回应",
-          "url": "https://flash.jin10.com/detail/20260104162200603800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "AI时代老艺术家依然坚持手搓",
