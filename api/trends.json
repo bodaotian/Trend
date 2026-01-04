@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T06:29:37.931754+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-01-05T07:28:56.987698+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时28分]"
         },
         {
           "title": "在原神FES解冻那个男人",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时28分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -72,8 +72,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时28分]"
         },
         {
           "title": "央视点名AI魔改乱象",
@@ -82,7 +82,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
