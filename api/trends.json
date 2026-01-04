@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T02:40:02.741580+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-01-05T03:23:21.902958+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时23分]"
         },
         {
           "title": "在原神FES解冻那个男人",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时23分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -65,11 +65,12 @@
           "ranks": [
             24,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时23分]"
         }
       ]
     }
