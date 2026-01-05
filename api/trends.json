@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T03:28:31.914479+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-01-06T04:35:39.886176+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时35分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -26,11 +26,12 @@
           "ranks": [
             30,
             29,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 04时35分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时35分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -50,11 +52,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时35分]"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -80,11 +83,12 @@
           "ranks": [
             24,
             23,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时35分]"
         }
       ]
     }
