@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T02:44:27.680374+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-07T03:25:29.141470+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
@@ -19,6 +19,18 @@
           "time_info": "01时31分"
         },
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时25分]"
+        },
+        {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
           "url": "https://wallstreetcn.com/livenews/3031804",
           "source": "华尔街见闻-快讯",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时31分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时44分]"
         },
         {
           "title": "AMD的CEO苏姿丰：所有人都应该明白，AI并非炒作。",
@@ -91,13 +91,24 @@
           "time_info": "[00时40分 ~ 01时31分]"
         },
         {
+          "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
+          "url": "https://wallstreetcn.com/livenews/3031856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
           "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
           "url": "https://wallstreetcn.com/livenews/3031819",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         },
@@ -127,7 +138,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "少女跳楼身亡,遗言竟是原神台词",
@@ -137,8 +148,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时25分]"
         },
         {
           "title": "2026新晋烂梗诞生:原神NB",
@@ -148,8 +159,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时25分]"
         },
         {
           "title": "如何评价《原神 · 空月之歌》月之三「百货奇货」活动中立本提供的新地区情报？",
@@ -162,6 +173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时31分]"
+        },
+        {
+          "title": "2026 年了，你现在如何评价《原神》、《崩坏：星穹铁道》、《绝区零》？",
+          "url": "https://www.zhihu.com/question/1991442089150530338",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     }
