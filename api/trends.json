@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:27:50.444418+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2026-01-06T21:02:13.131728+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -59,11 +59,12 @@
             8,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时23分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[10时23分 ~ 21时02分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -236,6 +237,17 @@
           "time_info": "[14时49分 ~ 15时35分]"
         },
         {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "20多个百大齐聚B站AI大赛",
           "url": "https://search.bilibili.com/all?keyword=20%E5%A4%9A%E4%B8%AA%E7%99%BE%E5%A4%A7%E9%BD%90%E8%81%9AB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -278,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "英伟达发布推理型自动驾驶AI模型Alpamayo 剑指6万亿美元市值",
+          "url": "https://flash.jin10.com/detail/20260106203551409800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "AMD在CES展示多款企业级及消费级AI芯片",
@@ -437,7 +460,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2026新晋烂梗诞生:原神NB",
@@ -446,11 +469,23 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 21时02分]"
+        },
+        {
+          "title": "少女跳楼身亡,遗言竟是原神台词",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348772&amp;topic_name=%E5%B0%91%E5%A5%B3%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%2C%E9%81%97%E8%A8%80%E7%AB%9F%E6%98%AF%E5%8E%9F%E7%A5%9E%E5%8F%B0%E8%AF%8D",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         }
       ]
     },
