@@ -1,33 +1,36 @@
 {
-  "generated_at": "2026-01-07T04:34:33.707587+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-01-07T05:30:51.033218+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
-          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
-          "url": "https://flash.jin10.com/detail/20260107040236649800",
-          "source": "金十数据",
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时30分]"
         },
         {
-          "title": "XAI：完成200亿美元的E轮融资。",
-          "url": "https://flash.jin10.com/detail/20260107040102162800",
-          "source": "金十数据",
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            30,
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 05时30分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -36,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -52,28 +55,28 @@
           "time_info": "01时31分"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
+          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
+          "url": "https://flash.jin10.com/detail/20260107040236649800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时34分]"
-        },
-        {
-          "title": "为何说AI抢走了你的内存",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            3
+            1,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时34分]"
+          "time_info": "[04时34分 ~ 05时30分]"
+        },
+        {
+          "title": "XAI：完成200亿美元的E轮融资。",
+          "url": "https://flash.jin10.com/detail/20260107040102162800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时30分]"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -148,6 +151,28 @@
           "time_info": "[00时40分 ~ 01时31分]"
         },
         {
+          "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
+          "url": "https://flash.jin10.com/detail/20260107042816684800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "xAI超额完成200亿美元融资 英伟达是战投之一",
+          "url": "https://flash.jin10.com/detail/20260107042526437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
           "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
           "url": "https://wallstreetcn.com/livenews/3031819",
           "source": "华尔街见闻-快讯",
@@ -157,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "xAI在E轮融资募集200亿美元，英伟达和思科战略投资",
+          "url": "https://wallstreetcn.com/livenews/3031871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         },
         {
           "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
@@ -183,8 +219,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时30分]"
         },
         {
           "title": "2026新晋烂梗诞生:原神NB",
@@ -194,8 +230,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时30分]"
+        },
+        {
+          "title": "2026 年了，你现在如何评价《原神》、《崩坏：星穹铁道》、《绝区零》？",
+          "url": "https://www.zhihu.com/question/1991442089150530338",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时30分]"
         },
         {
           "title": "如何评价《原神 · 空月之歌》月之三「百货奇货」活动中立本提供的新地区情报？",
@@ -208,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时31分]"
-        },
-        {
-          "title": "2026 年了，你现在如何评价《原神》、《崩坏：星穹铁道》、《绝区零》？",
-          "url": "https://www.zhihu.com/question/1991442089150530338",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时34分]"
         }
       ]
     }
