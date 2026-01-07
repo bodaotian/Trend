@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T16:42:42.351561+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-01-07T17:37:44.048178+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -34,20 +34,6 @@
           "time_info": "[01时31分 ~ 10时23分]"
         },
         {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 16时42分]"
-        },
-        {
           "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
           "url": "https://www.cls.cn/detail/2250156",
           "source": "财联社热门",
@@ -57,8 +43,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 17时37分]"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 17时37分]"
         },
         {
           "title": "英伟达押注物理AI背后逻辑",
@@ -75,18 +76,6 @@
           "time_info": "[12时07分 ~ 15时34分]"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时30分]"
-        },
-        {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
           "url": "https://www.cls.cn/detail/2250013",
           "source": "财联社热门",
@@ -97,8 +86,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 17时37分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时07分 ~ 16时42分]"
+          "time_info": "[00时40分 ~ 05时30分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -199,11 +200,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 16时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时37分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -216,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时34分]"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "AMD的CEO苏姿丰：所有人都应该明白，AI并非炒作。",
@@ -286,17 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "明晟公司MSCI新兴市场股票基准指数涨1.1%，创历史新高、连续第八个交易日上涨，AI相关个股功不可没，台积电、腾讯、SK海力士成为主要推手。 MSCI新兴市场外汇指数走高。 固收资产方面，MSCI新兴市场债券分项指数在周一（1月5日）创最近十三年来最低。",
@@ -383,8 +386,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 16时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 17时37分]"
         },
         {
           "title": "鸡哥不再鸽!原神动画仍在推进",
@@ -398,8 +401,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 17时37分]"
         },
         {
           "title": "2026新晋烂梗诞生:原神NB",
@@ -414,8 +417,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 16时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 17时37分]"
         },
         {
           "title": "2026 年了，你现在如何评价《原神》、《崩坏：星穹铁道》、《绝区零》？",
