@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T19:29:05.921192+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2026-01-07T21:04:08.691960+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,19 @@
           "time_info": "[12时07分 ~ 17时37分]"
         },
         {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 21时04分]"
+        },
+        {
           "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
           "url": "https://www.cls.cn/detail/2250185",
           "source": "财联社热门",
@@ -114,19 +127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 05时30分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时42分 ~ 19时29分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -300,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -333,7 +333,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -423,8 +423,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时07分 ~ 19时29分]"
+          "appearance_count": 14,
+          "time_info": "[12时07分 ~ 21时04分]"
         },
         {
           "title": "少女跳楼身亡,遗言竟是原神台词",
@@ -441,8 +441,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 19时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时40分 ~ 21时04分]"
         },
         {
           "title": "2026新晋烂梗诞生:原神NB",
@@ -459,8 +459,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 19时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时40分 ~ 21时04分]"
         },
         {
           "title": "2026 年了，你现在如何评价《原神》、《崩坏：星穹铁道》、《绝区零》？",
