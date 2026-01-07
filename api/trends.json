@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T07:30:22.525216+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-01-07T10:23:17.189002+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "为何说AI抢走了你的内存",
@@ -14,11 +14,24 @@
           "ranks": [
             30,
             3,
-            1
+            1,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 10时23分]"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 10时23分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -33,15 +46,15 @@
           "time_info": "[00时40分 ~ 05时30分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
+          "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
+          "url": "https://www.zhihu.com/question/1991159352690762378",
+          "source": "知乎",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -72,7 +85,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -99,6 +112,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时30分]"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 10时23分]"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -135,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时34分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
           "title": "AMD的CEO苏姿丰：所有人都应该明白，AI并非炒作。",
@@ -202,7 +216,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -286,8 +300,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时23分]"
         },
         {
           "title": "2026新晋烂梗诞生:原神NB",
@@ -297,8 +311,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 10时23分]"
         },
         {
           "title": "2026 年了，你现在如何评价《原神》、《崩坏：星穹铁道》、《绝区零》？",
