@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:35:10.617656+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2026-01-08T23:35:58.604431+08:00",
+  "total_titles_processed": 2072,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "ranks": [
             13,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 22时35分]"
+          "appearance_count": 6,
+          "time_info": "[18时35分 ~ 23时35分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -136,7 +137,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -308,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时34分 ~ 22时35分]"
+          "appearance_count": 12,
+          "time_info": "[13时34分 ~ 23时35分]"
         },
         {
           "title": "鸡哥不再鸽!原神动画仍在推进",
@@ -327,8 +328,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时41分 ~ 22时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时41分 ~ 23时35分]"
         },
         {
           "title": "少女跳楼身亡,遗言竟是原神台词",
@@ -346,8 +347,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时41分 ~ 22时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时41分 ~ 23时35分]"
         },
         {
           "title": "2026新晋烂梗诞生:原神NB",
