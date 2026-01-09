@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T16:42:30.295172+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-01-09T17:37:23.282748+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -43,6 +43,21 @@
           "time_info": "10时24分"
         },
         {
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 17时37分]"
+        },
+        {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
           "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
           "source": "百度热搜",
@@ -70,18 +85,16 @@
           "time_info": "[04时35分 ~ 05时31分]"
         },
         {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            7,
-            9,
-            8
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 16时42分]"
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "OpenAI推出OpenAI for Healthcare。",
@@ -120,6 +133,18 @@
           "time_info": "[03时28分 ~ 04时35分]"
         },
         {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
+        },
+        {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
           "url": "https://wallstreetcn.com/articles/3762810",
           "source": "华尔街见闻",
@@ -132,15 +157,16 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
+          "title": "金靖章若楠剧宣诡异的像AI",
+          "url": "https://www.douyin.com/hot/2362078",
+          "source": "抖音",
           "ranks": [
-            6
+            25,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 17时37分]"
         },
         {
           "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
@@ -165,15 +191,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时42分"
+          "time_info": "17时37分"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
@@ -209,6 +235,28 @@
           "time_info": "15时34分"
         },
         {
+          "title": "机构：在AI与关税夹击下，美国12月非农就业增长料疲弱",
+          "url": "https://flash.jin10.com/detail/20260109170031939800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
+          "url": "https://wallstreetcn.com/livenews/3033950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "Eleveight AI在亚美尼亚部署英伟达B300 Blackwell GPUs。",
           "url": "https://wallstreetcn.com/livenews/3033430",
           "source": "华尔街见闻-快讯",
@@ -218,17 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "金靖章若楠剧宣诡异的像AI",
-          "url": "https://www.douyin.com/hot/2362078",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
