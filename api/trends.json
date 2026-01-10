@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T15:27:39.232585+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-01-10T16:37:02.200048+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 15时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 16时37分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -52,11 +52,25 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时19分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[10时19分 ~ 16时37分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 16时37分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -85,19 +99,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时29分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 15时27分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -209,6 +210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时27分]"
+        },
+        {
+          "title": "AI怕你在婚礼上冷",
+          "url": "https://www.douyin.com/hot/2363223",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
