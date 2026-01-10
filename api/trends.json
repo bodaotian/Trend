@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T01:26:20.631834+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-01-11T02:40:26.095138+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -38,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时40分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -60,19 +60,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时40分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
           "url": "https://www.cls.cn/detail/2253876",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 02时40分]"
         }
       ]
     }
