@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:31:32.584748+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-01-10T19:24:33.998704+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时19分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时19分 ~ 19时24分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时29分 ~ 19时24分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -202,6 +202,18 @@
           "time_info": "[03时27分 ~ 04时34分]"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时24分]"
+        },
+        {
           "title": "AI怕你在婚礼上冷",
           "url": "https://www.douyin.com/hot/2363223",
           "source": "抖音",
@@ -211,18 +223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时36分 ~ 17时29分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时31分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
