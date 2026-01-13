@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:28:34.337421+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-01-14T04:36:08.585441+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -27,19 +27,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
           "url": "https://www.cls.cn/detail/2256264",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -47,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -63,8 +65,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -74,11 +76,12 @@
             22,
             20,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -88,11 +91,12 @@
             28,
             23,
             19,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -175,8 +179,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时36分]"
         }
       ]
     },
@@ -189,11 +193,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%8B%B1%E5%AE%87%E5%AE%99%E4%B8%80%E5%91%A8%E5%A4%A7%E4%BA%8B%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 04时36分]"
         }
       ]
     }
