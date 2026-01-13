@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T02:43:13.985342+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-14T03:28:34.337421+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -59,11 +59,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -72,11 +73,12 @@
           "ranks": [
             22,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -85,11 +87,12 @@
           "ranks": [
             28,
             23,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -99,8 +102,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
@@ -172,8 +175,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时28分]"
         }
       ]
     },
