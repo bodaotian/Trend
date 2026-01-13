@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T15:33:39.987584+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-01-13T16:42:35.154826+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -32,6 +32,19 @@
           "time_info": "[00时38分 ~ 10时21分]"
         },
         {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 16时42分]"
+        },
+        {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
           "url": "https://www.cls.cn/detail/2255010",
           "source": "财联社热门",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 06时28分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 15时33分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -118,11 +119,12 @@
             23,
             27,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 16时42分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -150,8 +152,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 16时42分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -197,6 +199,21 @@
           "time_info": "[07时24分 ~ 12时07分]"
         },
         {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16,
+            19,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 16时42分]"
+        },
+        {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
           "source": "澎湃新闻",
@@ -209,18 +226,15 @@
           "time_info": "[04时35分 ~ 07时24分]"
         },
         {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
+          "url": "https://flash.jin10.com/detail/20260113161050388800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            16,
-            19,
-            14
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
@@ -288,11 +302,36 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 16时42分]"
+        },
+        {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时33分]"
+          "time_info": "[15时33分 ~ 16时42分]"
+        },
+        {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时42分]"
         },
         {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
@@ -329,17 +368,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
           "url": "https://flash.jin10.com/detail/20260113044327822800",
           "source": "金十数据",
@@ -349,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "OpenAI：我们收购了Torch，一家整合实验室结果、药物和就诊记录的医疗初创公司。",
@@ -362,15 +401,15 @@
           "time_info": "05时31分"
         },
         {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
+          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
+          "url": "https://www.cls.cn/detail/2255684",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时42分"
         },
         {
           "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
@@ -450,6 +489,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "复旦教授：AI可能让人类变得更低能",
+          "url": "https://www.toutiao.com/trending/7594631018695364137/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035434",
           "source": "华尔街见闻-快讯",
@@ -474,8 +524,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时34分 ~ 16时42分]"
         }
       ]
     },
