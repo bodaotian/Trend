@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T14:48:59.883077+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-01-13T15:33:39.987584+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 15时33分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 15时33分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -117,11 +117,12 @@
             16,
             23,
             27,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 15时33分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -145,11 +146,12 @@
             26,
             23,
             21,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 15时33分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -159,11 +161,12 @@
             22,
             24,
             28,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 15时33分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -206,6 +209,20 @@
           "time_info": "[04时35分 ~ 07时24分]"
         },
         {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 15时33分]"
+        },
+        {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
           "url": "https://www.cls.cn/detail/2255501",
           "source": "财联社热门",
@@ -241,17 +258,17 @@
           "time_info": "[13时35分 ~ 14时48分]"
         },
         {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "如何看待马斯克AI预言",
+          "url": "https://www.douyin.com/hot/2366116",
+          "source": "抖音",
           "ranks": [
-            11,
             16,
-            19
+            14,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时48分]"
+          "time_info": "[13时34分 ~ 15时33分]"
         },
         {
           "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
@@ -266,16 +283,27 @@
           "time_info": "[10时21分 ~ 13时35分]"
         },
         {
-          "title": "如何看待马斯克AI预言",
-          "url": "https://www.douyin.com/hot/2366116",
-          "source": "抖音",
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            14
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 14时48分]"
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时33分]"
+        },
+        {
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时33分]"
         },
         {
           "title": "辉瑞计划在所有业务中加强AI的应用。",
@@ -301,6 +329,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
           "url": "https://flash.jin10.com/detail/20260113044327822800",
           "source": "金十数据",
@@ -323,26 +362,15 @@
           "time_info": "05时31分"
         },
         {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
-          "url": "https://www.cls.cn/detail/2255569",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
+          "time_info": "15时33分"
         },
         {
           "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
@@ -446,8 +474,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 15时33分]"
         }
       ]
     },
