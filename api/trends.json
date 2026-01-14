@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:42:15.102185+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-01-14T17:38:38.263485+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -75,11 +75,12 @@
             26,
             30,
             21,
-            29
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时38分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -126,8 +127,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时28分 ~ 17时38分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -140,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时28分 ~ 17时38分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -152,11 +153,12 @@
             13,
             5,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时38分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -166,8 +168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 17时38分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -180,8 +182,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 16时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 17时38分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -224,11 +226,24 @@
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 17时38分]"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 17时38分]"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
@@ -248,17 +263,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -309,6 +313,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "1月14日午间收评：创业板指半日涨超2%，AI应用方向持续爆发",
           "url": "https://wallstreetcn.com/livenews/3036629",
           "source": "华尔街见闻-快讯",
@@ -353,13 +368,24 @@
           "time_info": "10时28分"
         },
         {
+          "title": "星环科技：公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3036838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "报道：SK海力士停产消费级存储器 资源转向B2B与AI服务器市场",
           "url": "https://wallstreetcn.com/livenews/3036802",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -403,8 +429,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[13时34分 ~ 17时38分]"
         },
         {
           "title": "原神少女上线",
@@ -412,11 +438,24 @@
           "source": "抖音",
           "ranks": [
             18,
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时34分 ~ 17时38分]"
+        },
+        {
+          "title": "原神少女超详细实战攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%B0%91%E5%A5%B3%E8%B6%85%E8%AF%A6%E7%BB%86%E5%AE%9E%E6%88%98%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时34分 ~ 16时42分]"
+          "time_info": "[16时41分 ~ 17时38分]"
         },
         {
           "title": "原神哥伦比娅角色预告",
@@ -429,17 +468,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时30分 ~ 07时27分]"
-        },
-        {
-          "title": "原神少女超详细实战攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%B0%91%E5%A5%B3%E8%B6%85%E8%AF%A6%E7%BB%86%E5%AE%9E%E6%88%98%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "原神少女",
