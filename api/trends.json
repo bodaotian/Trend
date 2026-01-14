@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:35:34.212717+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-01-14T23:34:47.528905+08:00",
+  "total_titles_processed": 2115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时28分 ~ 22时35分]"
+          "appearance_count": 14,
+          "time_info": "[10时28分 ~ 23时34分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -70,11 +70,25 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 23时34分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 23时34分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -143,8 +157,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 22时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 23时34分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -182,19 +196,6 @@
           "time_info": "[00时43分 ~ 10时28分]"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时35分]"
-        },
-        {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
           "url": "https://www.zhihu.com/question/1994009798958657948",
           "source": "知乎",
@@ -218,6 +219,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时38分 ~ 22时35分]"
+        },
+        {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
@@ -392,6 +404,28 @@
           "time_info": "19时31分"
         },
         {
+          "title": "SKILD AI完成14亿美元融资，软银领投。",
+          "url": "https://flash.jin10.com/detail/20260114231011740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "SKILD AI以超过140亿美元的估值筹资14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260114230941148800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "创业板指涨超1%，沪指涨0.36%，深成指涨0.91%，AI应用、贵金属、油气等方向领涨，沪深京三市上涨个股超3400只。",
           "url": "https://wallstreetcn.com/livenews/3036546",
           "source": "华尔街见闻-快讯",
@@ -453,7 +487,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         }
@@ -489,8 +523,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时34分 ~ 22时35分]"
+          "appearance_count": 10,
+          "time_info": "[15时34分 ~ 23时34分]"
         },
         {
           "title": "原神少女超详细实战攻略",
@@ -504,8 +538,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 23时34分]"
         },
         {
           "title": "原神月之四版本",
