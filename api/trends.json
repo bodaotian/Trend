@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-16T06:31:47.567883+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-01-16T07:31:14.576153+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
-        },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
           "url": "https://www.zhihu.com/question/1995072589756901062",
@@ -27,6 +15,18 @@
             5,
             3,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -41,11 +41,12 @@
             7,
             8,
             4,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -57,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -69,11 +70,12 @@
             21,
             17,
             14,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -84,21 +86,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
-        },
-        {
-          "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
-          "url": "https://www.zhihu.com/question/1995085840762758424",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 05时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -112,8 +101,21 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
+          "url": "https://www.zhihu.com/question/1995085840762758424",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "time_info": "[00时46分 ~ 05时31分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -141,6 +143,28 @@
           "time_info": "[02时50分 ~ 04时36分]"
         },
         {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
+          "url": "https://www.zhihu.com/question/1994345893202191645",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
           "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
           "url": "https://wallstreetcn.com/livenews/3038126",
           "source": "华尔街见闻-快讯",
@@ -159,7 +183,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -222,8 +246,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "原神少女超详细实战攻略",
@@ -234,11 +258,12 @@
             16,
             22,
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时31分]"
         }
       ]
     }
