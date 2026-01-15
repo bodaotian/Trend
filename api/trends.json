@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:35:20.062884+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-01-15T19:30:44.232600+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 19时30分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -76,6 +76,20 @@
           "time_info": "[10时23分 ~ 16时42分]"
         },
         {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时47分 ~ 19时30分]"
+        },
+        {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
           "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
@@ -116,8 +130,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 19时30分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -130,11 +144,12 @@
             18,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 18时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 19时30分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -153,8 +168,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 18时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 19时30分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -168,20 +183,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时35分 ~ 07时26分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时47分 ~ 18时35分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -211,6 +212,18 @@
           "time_info": "[01时35分 ~ 07时26分]"
         },
         {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时30分]"
+        },
+        {
           "title": "千问App全球首发点外卖、买东西、订机票等AI购物功能",
           "url": "https://wallstreetcn.com/livenews/3037462",
           "source": "华尔街见闻-快讯",
@@ -231,28 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
-        },
-        {
-          "title": "李斌开年内部讲话：预计2025年第四季度盈利目标可实现，推动AI在全业务链条落地",
-          "url": "https://wallstreetcn.com/livenews/3037912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
-          "url": "https://www.zhihu.com/question/1993756665422509304",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -295,6 +286,18 @@
           "time_info": "[01时35分 ~ 03时27分]"
         },
         {
+          "title": "李斌开年内部讲话：预计2025年第四季度盈利目标可实现，推动AI在全业务链条落地",
+          "url": "https://wallstreetcn.com/livenews/3037912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时30分]"
+        },
+        {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
           "url": "https://wallstreetcn.com/livenews/3037274",
           "source": "华尔街见闻-快讯",
@@ -328,6 +331,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时33分 ~ 17时37分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时30分]"
         },
         {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
@@ -400,6 +415,17 @@
           "time_info": "[17时36分 ~ 17时37分]"
         },
         {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时30分]"
+        },
+        {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3037234",
           "source": "华尔街见闻-快讯",
@@ -432,17 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        },
-        {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "美国佛州州长加大对AI与数据中心“现实风险”的警告力度",
@@ -635,7 +650,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "原神少女超详细实战攻略",
@@ -651,8 +666,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 18时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 19时30分]"
         },
         {
           "title": "原神少女上线",
@@ -683,6 +698,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时46分 ~ 07时26分]"
+        },
+        {
+          "title": "原神哥伦比娅全面测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%93%A5%E4%BC%A6%E6%AF%94%E5%A8%85%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时30分]"
         },
         {
           "title": "原神月之四版本",
