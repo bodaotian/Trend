@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T00:41:36.821248+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-17T01:32:37.426757+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
           "url": "https://wallstreetcn.com/articles/3763449",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -37,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
         },
         {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
@@ -65,19 +66,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
         },
         {
           "title": "原神哥伦比娅全面测评",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E5%93%A5%E4%BC%A6%E6%AF%94%E5%A8%85%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
         }
       ]
     },
