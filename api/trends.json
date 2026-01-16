@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T14:48:30.123078+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-01-16T15:33:16.446701+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -88,11 +88,25 @@
             24,
             25,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 14时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 15时33分]"
+        },
+        {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时33分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -120,19 +134,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时30分 ~ 13时34分]"
-        },
-        {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时48分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -165,11 +166,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 15时33分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -180,8 +182,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时33分]"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 15时33分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -194,6 +209,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时41分]"
+        },
+        {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 15时33分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -219,18 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 12时07分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时48分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -299,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
         },
         {
           "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
@@ -416,8 +420,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 14时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 15时33分]"
         },
         {
           "title": "原神少女超详细实战攻略",
@@ -434,8 +438,25 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时41分 ~ 14时48分]"
+          "appearance_count": 13,
+          "time_info": "[01时41分 ~ 15时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宇宙",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宋亚轩珍珠宇宙的公主来了",
+          "url": "https://www.douyin.com/hot/2369691",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
         }
       ]
     }
