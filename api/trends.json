@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T06:31:44.497262+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-01-17T07:29:55.590264+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时29分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 07时29分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -107,6 +107,17 @@
           "time_info": "[02时46分 ~ 04时31分]"
         },
         {
+          "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
+          "url": "https://flash.jin10.com/detail/20260117043322271800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时29分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
           "url": "https://flash.jin10.com/detail/20260117020212481800",
           "source": "金十数据",
@@ -118,17 +129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时31分]"
-        },
-        {
-          "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
-          "url": "https://flash.jin10.com/detail/20260117043322271800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时31分]"
         },
         {
           "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
