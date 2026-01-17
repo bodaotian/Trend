@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T03:22:49.814238+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-18T04:32:07.141818+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时32分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -27,8 +27,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时32分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -38,8 +38,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时32分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
@@ -49,14 +49,14 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时32分]"
         }
       ]
     },
     {
       "keyword_group": "宇宙",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "鸣潮飞行雪绒EP靛青宇宙",
@@ -67,8 +67,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时32分]"
+        },
+        {
+          "title": "辰东宇宙最强男主",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BE%B0%E4%B8%9C%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%BA%E7%94%B7%E4%B8%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时32分]"
         }
       ]
     }
