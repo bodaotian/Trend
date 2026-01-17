@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T10:12:20.450687+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-01-17T12:00:58.636011+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时00分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -60,11 +61,23 @@
           "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时00分]"
+        },
+        {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时00分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -143,26 +156,40 @@
           "time_info": "[02时46分 ~ 04时31分]"
         },
         {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "美政府推动科技巨头为AI用电买单",
           "url": "https://flash.jin10.com/detail/20260117082311101800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时00分]"
+        },
+        {
+          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
+          "url": "https://wallstreetcn.com/livenews/3039057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时00分]"
+        },
+        {
+          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3039052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时00分]"
         },
         {
           "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
@@ -174,28 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
@@ -223,11 +228,12 @@
             25,
             19,
             29,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 10时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 12时00分]"
         },
         {
           "title": "如何评价米哈游《原神》月之四版本中的三月女神，卡侬，艾莉亚，桑娜妲？",
@@ -255,8 +261,31 @@
     },
     {
       "keyword_group": "宇宙",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "辰东宇宙最强男主",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BE%B0%E4%B8%9C%E5%AE%87%E5%AE%99%E6%9C%80%E5%BC%BA%E7%94%B7%E4%B8%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时00分]"
+        },
+        {
+          "title": "宋亚轩珍珠宇宙的公主来了",
+          "url": "https://www.douyin.com/hot/2369691",
+          "source": "抖音",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时00分]"
+        },
         {
           "title": "辰东宇宙宝藏爽文遗珠",
           "url": "https://search.bilibili.com/all?keyword=%E8%BE%B0%E4%B8%9C%E5%AE%87%E5%AE%99%E5%AE%9D%E8%97%8F%E7%88%BD%E6%96%87%E9%81%97%E7%8F%A0",
@@ -267,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "宋亚轩珍珠宇宙的公主来了",
-          "url": "https://www.douyin.com/hot/2369691",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         }
       ]
     }
