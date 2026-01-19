@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:09:14.411131+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-01-19T22:38:11.913036+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -94,6 +94,29 @@
           "time_info": "[13时39分 ~ 16时45分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 22时38分]"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 22时38分]"
+        },
+        {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
           "url": "https://wallstreetcn.com/livenews/3039528",
           "source": "华尔街见闻-快讯",
@@ -104,28 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 14时53分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
-        },
-        {
-          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
-          "url": "https://www.cls.cn/detail/2262181",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "Air手机界来了个真Pro",
@@ -150,13 +151,24 @@
           "time_info": "[02时38分 ~ 02时39分]"
         },
         {
+          "title": "李稻葵：马斯克的预言是“AI乌托邦”",
+          "url": "https://www.toutiao.com/trending/7596717546255581227/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
+        },
+        {
           "title": "荣耀Magic 8 Pro Air 售价4999元起",
           "url": "https://wallstreetcn.com/livenews/3039775",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
