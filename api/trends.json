@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T16:45:59.565436+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-01-20T17:42:36.016241+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -129,6 +129,18 @@
           "time_info": "[02时44分 ~ 04时34分]"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时42分]"
+        },
+        {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
           "url": "https://www.zhihu.com/question/63359251",
           "source": "知乎",
@@ -188,17 +200,6 @@
           "time_info": "[12时12分 ~ 13时38分]"
         },
         {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
           "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
           "url": "https://flash.jin10.com/detail/20260120140732774800",
           "source": "金十数据",
@@ -238,7 +239,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
