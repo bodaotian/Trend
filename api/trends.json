@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:40:34.795570+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-01-21T19:33:01.842093+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -15,11 +15,12 @@
             3,
             1,
             7,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 19时33分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -29,11 +30,12 @@
             7,
             9,
             13,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时37分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 19时33分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -43,8 +45,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时37分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 19时33分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 19时33分]"
         },
         {
           "title": "拳头程序员分析人类对战AI胜算",
@@ -56,19 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
-        },
-        {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 18时40分]"
         },
         {
           "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
@@ -130,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时39分]"
+        },
+        {
+          "title": "中国的AI+经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%9A%84AI%2B%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
@@ -204,7 +218,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
