@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-21T10:41:01.870772+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-01-21T12:12:30.814099+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "疑似AI玩家确认是Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
         {
           "title": "上海中小学开设AI课程",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
@@ -85,7 +96,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -140,7 +151,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
