@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T21:09:57.463817+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-01-22T23:40:46.287060+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
@@ -113,6 +113,18 @@
           "time_info": "[01时09分 ~ 07时34分]"
         },
         {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 23时40分]"
+        },
+        {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
           "url": "https://www.cls.cn/detail/2265674",
           "source": "财联社热门",
@@ -149,18 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 21时09分]"
         },
         {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
@@ -360,9 +360,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "传vivo叫停AI眼镜项目，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3042155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国白宫AI主管David Sacks：美国（各州凳面）“拼凑的”AI制度威胁到创新。 儿童（数据隐私）安全必须是监管框架的一部分。",
