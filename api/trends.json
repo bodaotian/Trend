@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T04:36:28.565881+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-01-24T05:31:20.421395+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时31分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时31分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -39,11 +40,12 @@
             10,
             20,
             17,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时31分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -136,11 +138,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时31分]"
         }
       ]
     },
