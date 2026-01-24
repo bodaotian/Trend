@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:29:17.557526+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-01-24T23:29:28.681458+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时03分 ~ 22时29分]"
+          "appearance_count": 15,
+          "time_info": "[12时03分 ~ 23时29分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -44,11 +44,29 @@
             5,
             4,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 23时29分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            4,
+            13,
+            18,
+            21,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时37分 ~ 23时29分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
@@ -66,22 +84,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[14时43分 ~ 22时29分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            4,
-            13,
-            18,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时37分 ~ 22时29分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -106,11 +108,24 @@
             1,
             14,
             21,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 17时30分]"
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 23时29分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时25分 ~ 23时29分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -126,17 +141,6 @@
           "time_info": "[15时28分 ~ 19时25分]"
         },
         {
-          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
-          "url": "https://flash.jin10.com/detail/20260124215336107800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
           "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
           "url": "https://flash.jin10.com/detail/20260124180858943800",
           "source": "金十数据",
@@ -149,18 +153,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时31分 ~ 21时38分]"
-        },
-        {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时25分 ~ 22时29分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -212,6 +204,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时48分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时29分]"
         },
         {
           "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
