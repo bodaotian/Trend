@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:41:03.703195+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-01-25T22:28:54.639015+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时35分 ~ 21时41分]"
+          "appearance_count": 28,
+          "time_info": "[00时35分 ~ 22时28分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时44分 ~ 22时28分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -30,24 +44,12 @@
             2,
             1,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时19分 ~ 21时41分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时44分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[12时19分 ~ 22时28分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -73,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时19分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[12时19分 ~ 22时28分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
