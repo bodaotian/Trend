@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:45:01.951114+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-01-25T15:31:16.696031+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 15时31分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -50,6 +50,20 @@
           "time_info": "[00时35分 ~ 07时28分]"
         },
         {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 15时31分]"
+        },
+        {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
@@ -78,17 +92,16 @@
           "time_info": "[01时26分 ~ 07时28分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            7,
-            2
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 15时31分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -100,18 +113,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 05时27分]"
-        },
-        {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 14时45分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -127,6 +128,18 @@
           "time_info": "[02时41分 ~ 06时29分]"
         },
         {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 15时31分]"
+        },
+        {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
           "url": "https://www.zhihu.com/question/1996908423174910237",
           "source": "知乎",
@@ -137,17 +150,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时37分 ~ 13时36分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
         }
       ]
     },
