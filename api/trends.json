@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T07:29:42.342369+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-26T10:36:00.362664+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3764092",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时36分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -38,11 +39,12 @@
             11,
             14,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时36分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -63,11 +65,12 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时36分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
