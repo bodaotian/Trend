@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T19:29:58.273693+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-01-26T21:07:42.033239+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -85,8 +85,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时39分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时39分 ~ 21时07分]"
         },
         {
           "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
@@ -97,11 +97,12 @@
             4,
             11,
             6,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 21时07分]"
         },
         {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
@@ -171,6 +172,17 @@
           "time_info": "[13时39分 ~ 16时46分]"
         },
         {
+          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/articles/3764155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
           "url": "https://www.cls.cn/detail/2269055",
           "source": "财联社热门",
@@ -191,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "iPhoneAir暴降后卖断货",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir%E6%9A%B4%E9%99%8D%E5%90%8E%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
