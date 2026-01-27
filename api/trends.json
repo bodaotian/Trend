@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T05:28:15.030857+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-01-28T06:32:13.943592+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时32分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时32分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时32分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时32分]"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -167,7 +167,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
@@ -185,11 +185,12 @@
             22,
             24,
             29,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时32分]"
         }
       ]
     }
