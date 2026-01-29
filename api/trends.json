@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:46:54.564087+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-29T13:53:47.664504+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 12时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 13时53分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -90,11 +90,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 13时53分]"
         },
         {
           "title": "中国科学家研发出“能屈能伸”的柔性AI芯片",
@@ -159,8 +160,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 13时53分]"
+        },
+        {
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时53分]"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -229,6 +242,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "AI应用方向涨势扩大，新华网、人民网、因赛集团、引力传媒、粤传媒、科大讯飞、浙文互联等10余股封涨停板，流金科技、卓易信息、天龙集团、蓝色光标、易点天下均涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3046015",
           "source": "华尔街见闻-快讯",
@@ -240,15 +264,15 @@
           "time_info": "10时45分"
         },
         {
-          "title": "AI应用板块爆发",
-          "url": "https://www.toutiao.com/trending/7599545650313642034/",
-          "source": "今日头条",
+          "title": "光明村村民领京东AI手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%9D%91%E6%9D%91%E6%B0%91%E9%A2%86%E4%BA%AC%E4%B8%9CAI%E6%89%8B%E6%9C%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "13时53分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -279,7 +303,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
