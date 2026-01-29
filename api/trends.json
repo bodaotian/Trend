@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:39:26.761151+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-01-30T04:41:54.644885+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -52,8 +52,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时41分]"
+        },
+        {
+          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
+          "url": "https://www.cls.cn/detail/2274202",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。（英国金融时报）",
@@ -67,27 +78,17 @@
           "time_info": "01时46分"
         },
         {
-          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
-          "url": "https://www.cls.cn/detail/2274202",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时39分]"
-        },
-        {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时41分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -95,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时41分]"
         },
         {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
@@ -107,11 +109,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时41分]"
         },
         {
           "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
@@ -119,11 +122,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时41分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
