@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T04:41:54.644885+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-01-30T05:37:24.682396+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -63,8 +63,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
+        },
+        {
+          "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
+          "url": "https://wallstreetcn.com/livenews/3046700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。（英国金融时报）",
@@ -167,6 +178,28 @@
           "time_info": "[03时01分 ~ 03时39分]"
         },
         {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "黑石总裁：AI颠覆传统产业是当前最大的风险",
           "url": "https://wallstreetcn.com/livenews/3046598",
           "source": "华尔街见闻-快讯",
@@ -176,6 +209,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",
+          "url": "https://flash.jin10.com/detail/20260130050039950800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     }
