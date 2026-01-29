@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:53:47.664504+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-01-29T15:02:04.676937+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 13时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 15时02分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -74,6 +74,19 @@
           "time_info": "[00时51分 ~ 07时35分]"
         },
         {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 15时02分]"
+        },
+        {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
           "url": "https://www.cls.cn/detail/2272560",
           "source": "财联社热门",
@@ -86,16 +99,15 @@
           "time_info": "[00时51分 ~ 06时37分]"
         },
         {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 15时02分]"
         },
         {
           "title": "中国科学家研发出“能屈能伸”的柔性AI芯片",
@@ -153,15 +165,16 @@
           "time_info": "02时50分"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时02分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -242,17 +255,6 @@
           "time_info": "05时39分"
         },
         {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "AI应用方向涨势扩大，新华网、人民网、因赛集团、引力传媒、粤传媒、科大讯飞、浙文互联等10余股封涨停板，流金科技、卓易信息、天龙集团、蓝色光标、易点天下均涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3046015",
           "source": "华尔街见闻-快讯",
@@ -270,7 +272,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
