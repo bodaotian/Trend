@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T10:45:54.366563+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-01-30T12:48:51.715986+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 12时48分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -56,11 +56,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 12时48分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -82,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 10时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 12时48分]"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。（英国金融时报）",
@@ -174,6 +175,30 @@
           "time_info": "[01时46分 ~ 03时39分]"
         },
         {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时48分]"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时48分]"
+        },
+        {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
           "url": "https://flash.jin10.com/detail/20260130013359793800",
           "source": "金十数据",
@@ -209,17 +234,6 @@
           "time_info": "06时38分"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
           "title": "消息人士称，OpenAI已聘请新高管，以帮助为IPO做准备，OpenAI计划在第四季度进行IPO，以在上市竞争中击败Anthropic。",
           "url": "https://flash.jin10.com/detail/20260130070522656800",
           "source": "金十数据",
@@ -251,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：客户对AirPods Pro 3反应积极。",
@@ -308,15 +333,15 @@
           "time_info": "05时37分"
         },
         {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
+          "title": "Ai 编程时代，Rust 会不会未盛先衰？",
+          "url": "https://www.zhihu.com/question/1979722947267671278",
+          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "12时48分"
         },
         {
           "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
