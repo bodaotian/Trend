@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:51:30.520825+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-01-30T18:47:34.160200+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 17时51分]"
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 18时47分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 18时47分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -71,11 +71,12 @@
             11,
             13,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 18时47分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -97,11 +98,12 @@
             10,
             8,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 18时47分]"
         },
         {
           "title": "SpaceX被曝拟合并xAI",
@@ -114,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 17时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 18时47分]"
         },
         {
           "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
@@ -127,11 +129,12 @@
             14,
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 18时47分]"
         },
         {
           "title": "SpaceX或与xAI合并",
@@ -257,6 +260,18 @@
           "time_info": "[15时02分 ~ 15时03分]"
         },
         {
+          "title": "我的马耶这春晚AI做的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时47分]"
+        },
+        {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
           "url": "https://flash.jin10.com/detail/20260130013359793800",
           "source": "金十数据",
@@ -356,17 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "我的马耶这春晚AI做的",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "【报道：OpenAI计划在第四季度进行IPO】消息人士称，OpenAI正努力争取在第四季度进行IPO。OpenAI已与华尔街银行就IPO事宜进行非正式洽商。消息人士称，OpenAI已聘请新的高管协助筹备IPO。（华尔街日报）",
@@ -490,11 +494,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时47分]"
         }
       ]
     }
