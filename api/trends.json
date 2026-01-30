@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T05:37:01.693661+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-01-31T06:37:08.108020+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 06时37分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -27,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 06时37分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -90,11 +90,12 @@
           "ranks": [
             13,
             12,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 06时37分]"
         }
       ]
     }
