@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:48:51.715986+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-01-30T13:56:57.757266+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 12时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 13时56分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 12时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 13时56分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -83,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 13时56分]"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。（英国金融时报）",
@@ -162,6 +162,18 @@
           "time_info": "[05时37分 ~ 06时38分]"
         },
         {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时56分]"
+        },
+        {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
           "url": "https://wallstreetcn.com/livenews/3046626",
           "source": "华尔街见闻-快讯",
@@ -175,28 +187,29 @@
           "time_info": "[01时46分 ~ 03时39分]"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时48分]"
-        },
-        {
           "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时56分]"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时48分]"
+          "time_info": "[12时48分 ~ 13时56分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -267,17 +280,6 @@
           "time_info": "06时38分"
         },
         {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "苹果(AAPL.O)CEO库克：客户对AirPods Pro 3反应积极。",
           "url": "https://flash.jin10.com/detail/20260130061125267800",
           "source": "金十数据",
@@ -311,6 +313,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "【报道：OpenAI计划在第四季度进行IPO】消息人士称，OpenAI正努力争取在第四季度进行IPO。OpenAI已与华尔街银行就IPO事宜进行非正式洽商。消息人士称，OpenAI已聘请新的高管协助筹备IPO。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3046751",
           "source": "华尔街见闻-快讯",
@@ -339,7 +352,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
