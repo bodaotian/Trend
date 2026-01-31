@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T03:28:56.491354+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-02-01T04:36:13.138886+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时36分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -27,19 +27,33 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时36分]"
+        },
+        {
+          "title": "爆火AI助手数小时两度改名",
+          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%ABAI%E5%8A%A9%E6%89%8B%E6%95%B0%E5%B0%8F%E6%97%B6%E4%B8%A4%E5%BA%A6%E6%94%B9%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "time_info": "[01时31分 ~ 04时36分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
           "url": "https://wallstreetcn.com/livenews/3047705",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时36分]"
         },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -49,19 +63,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时36分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
           "url": "https://wallstreetcn.com/livenews/3047693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时36分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -71,8 +86,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时36分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -82,20 +97,36 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时36分]"
         },
         {
-          "title": "爆火AI助手数小时两度改名",
-          "url": "https://www.baidu.com/s?wd=%E7%88%86%E7%81%ABAI%E5%8A%A9%E6%89%8B%E6%95%B0%E5%B0%8F%E6%97%B6%E4%B8%A4%E5%BA%A6%E6%94%B9%E5%90%8D",
-          "source": "百度热搜",
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            22
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 03时28分]"
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 04时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宇宙",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 2026 年 1 月 31 日黄霄雲宇宙无敌号巡演深圳场？",
+          "url": "https://www.zhihu.com/question/2001022519084351662",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 04时36分]"
         }
       ]
     }
