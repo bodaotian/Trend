@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T17:37:58.379547+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-01-31T18:35:27.155972+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             3,
             8,
             12,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 17时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 18时35分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -71,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时35分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -121,11 +122,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时35分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
