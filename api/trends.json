@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T15:36:58.141173+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-01-31T16:42:08.287218+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -26,11 +26,26 @@
           "ranks": [
             23,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时52分 ~ 15时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 16时42分]"
+        },
+        {
+          "title": "叫兽易小星报名B站AI大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            3,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 16时42分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -44,20 +59,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时40分 ~ 05时37分]"
-        },
-        {
-          "title": "叫兽易小星报名B站AI大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            3,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 15时36分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -88,6 +89,18 @@
           "time_info": "[12时41分 ~ 14时54分]"
         },
         {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 16时42分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
           "url": "https://flash.jin10.com/detail/20260131123614314800",
           "source": "金十数据",
@@ -113,17 +126,6 @@
           "time_info": "[03时40分 ~ 04时41分]"
         },
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时36分]"
-        },
-        {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
           "url": "https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E6%8A%BC%E5%AE%9DAI+%E7%89%B9%E6%96%AF%E6%8B%89%E6%B2%A1%E5%BF%83%E6%80%9D%E9%80%A0%E8%BD%A6%E4%BA%86",
           "source": "百度热搜",
@@ -133,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 05时37分]"
+        },
+        {
+          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
+          "url": "https://flash.jin10.com/detail/20260131153449024800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
