@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T00:54:35.826144+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-03T01:50:17.129798+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2278216",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时50分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时50分]"
         }
       ]
     },
@@ -40,11 +41,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E7%99%BD%E9%A9%AC%E4%BB%99%E4%BA%BA%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时50分]"
         }
       ]
     }
