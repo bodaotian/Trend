@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T16:57:40.537429+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-02-02T18:03:25.351529+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 16时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 18时03分]"
         },
         {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
@@ -98,11 +98,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时03分]"
         },
         {
           "title": "AI生产力红利支撑降息论 新元随亚币走强",
@@ -133,7 +134,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -155,7 +156,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -163,7 +164,7 @@
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "原神白马仙人预告",
@@ -173,8 +174,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时03分]"
         },
         {
           "title": "《原神》里哥伦比娅能否指挥得动挪德卡莱本土的武装力量执灯人？",
@@ -187,6 +188,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 01时33分]"
+        },
+        {
+          "title": "如何评价《原神》角色预告 -「兹白：常身归于世」？",
+          "url": "https://www.zhihu.com/question/2001637588985987187",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     }
