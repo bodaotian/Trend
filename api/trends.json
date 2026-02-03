@@ -1,41 +1,77 @@
 {
-  "generated_at": "2026-02-03T23:59:30.548717+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2026-02-04T01:07:29.639812+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 41,
+      "match_count": 8,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时51分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            8,
-            4,
-            2,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 19时43分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
+          "url": "https://www.cls.cn/detail/2279310",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3049227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -45,509 +81,36 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时55分 ~ 23时59分]"
-        },
-        {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时55分 ~ 23时59分]"
-        },
-        {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 16时52分]"
-        },
-        {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时55分 ~ 23时59分]"
-        },
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 10时51分]"
-        },
-        {
-          "title": "SpaceX官宣收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时06分]"
-        },
-        {
-          "title": "分析师：SpaceX与xAI合并降低了特斯拉并入的可能性",
-          "url": "https://flash.jin10.com/detail/20260203223903996800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "王楚然工作室AI剧宣",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 18时53分]"
-        },
-        {
-          "title": "摩尔线程AI Coding Plan上线",
-          "url": "https://wallstreetcn.com/livenews/3049004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "xAI与SpaceX已将股份交换比例定为0.1433。 xAI投资者每持有1股xAI股票可获得0.1433股SpaceX股票。 xAI高管也可选择现金，每股xAI股票可获得75.46美元的现金。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3048748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
-          "url": "https://www.cls.cn/detail/2278442",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 16时52分]"
-        },
-        {
-          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
-          "url": "https://www.zhihu.com/question/2001947312226848988",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时06分]"
-        },
-        {
-          "title": "又一位AI亿万富豪诞生了",
-          "url": "https://www.toutiao.com/trending/7602226721282457650/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 16时52分]"
-        },
-        {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 23时59分]"
-        },
-        {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 07时38分]"
+          "time_info": "01时07分"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 23时59分]"
-        },
-        {
-          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
-          "url": "https://www.cls.cn/detail/2279310",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 23时59分]"
-        },
-        {
-          "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
-          "url": "https://wallstreetcn.com/livenews/3048580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
-          "url": "https://wallstreetcn.com/livenews/3048579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
-          "url": "https://www.zhihu.com/question/1999077818584228918",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
-          "url": "https://wallstreetcn.com/livenews/3048577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "沃尔玛市值首次突破1万亿美元 AI布局与高性价比推动增长",
-          "url": "https://flash.jin10.com/detail/20260203230306441800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "一图看懂|三大巨头豪掷45亿！2026春节AI红包大战打响",
-          "url": "https://www.cls.cn/detail/2279165",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
-          "url": "https://www.zhihu.com/question/2001346637126136295",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
-          "url": "https://flash.jin10.com/detail/20260203063954637800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "汇丰：AI投资收益更利好股票而非信贷",
-          "url": "https://flash.jin10.com/detail/20260203181313892800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "新加坡新预算案或聚焦长期发展 民生及AI支持力度受关注",
-          "url": "https://flash.jin10.com/detail/20260203102255225800",
-          "source": "金十数据",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "上海今年新增就业60万人以上，将构建AI对就业影响的研判应对机制",
-          "url": "https://wallstreetcn.com/livenews/3048724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
-          "url": "https://wallstreetcn.com/livenews/3049154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "XAI已告知投资者，该公司去年前九个月“烧掉了”约95亿美元的现金。",
-          "url": "https://flash.jin10.com/detail/20260203101841255800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "消息人士称，部分XAI高管可能会选择以每股75.46美元的价格获得现金，而不是SpaceX股票。",
-          "url": "https://flash.jin10.com/detail/20260203101701155800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
-          "url": "https://flash.jin10.com/detail/20260203130436001800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "AI只是在“省钱”而非“造饭碗”，蓝领岗位增长或跑赢科技浪潮",
-          "url": "https://flash.jin10.com/detail/20260203121309957800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "OpenAI战略大转舵 全速冲刺ChatGPT商业化",
-          "url": "https://flash.jin10.com/detail/20260203130348456800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "新世界发展：上海K11 ATELIER Huaihai办公楼预出租率超50%",
-          "url": "https://wallstreetcn.com/livenews/3049194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "消息人士称，XAI与SpaceX已将股份交换比例定为0.1433。",
-          "url": "https://flash.jin10.com/detail/20260203101620083800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "SpaceX收购xAI 估值1.25万亿美元",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E6%94%B6%E8%B4%ADxAI+%E4%BC%B0%E5%80%BC1.25%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3048556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "软银公司宣布，其子公司SaiMemory将与英特尔展开合作，共同推动下一代存储技术的商业化。 该项目计划在2028年3月31日止的财年内（即2027财年）制造出原型产品；并目标在2029财年实现正式商业化。",
-          "url": "https://wallstreetcn.com/livenews/3048772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
       "keyword_group": "原神 火影忍者",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "原神白马仙人预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E7%99%BD%E9%A9%AC%E4%BB%99%E4%BA%BA%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时50分]"
-        },
-        {
-          "title": "如何评价 2026 年 2 月米哈游《原神》璃月古诗《琅风 兹白》？",
-          "url": "https://www.zhihu.com/question/2001969998810342884",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "原神真正的白马仙人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%99%BD%E9%A9%AC%E4%BB%99%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宇宙",
       "match_count": 1,
       "titles": [
         {
-          "title": "上海：培育壮大微短剧、元宇宙等新型文化业态",
-          "url": "https://wallstreetcn.com/livenews/3048711",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 2026 年 2 月米哈游《原神》月之四下半卡池，兹白，那维莱特？",
+          "url": "https://www.zhihu.com/question/2001961170945459780",
+          "source": "知乎",
           "ranks": [
-            25
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "01时07分"
         }
       ]
     }
