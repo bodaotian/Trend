@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-03T17:56:11.989697+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-02-03T18:53:58.031493+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 18时53分]"
+        },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
           "url": "https://www.cls.cn/detail/2278467",
@@ -22,20 +36,6 @@
           "time_info": "[10时51分 ~ 16时52分]"
         },
         {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 17时56分]"
-        },
-        {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
           "url": "https://www.cls.cn/detail/2278753",
           "source": "财联社热门",
@@ -46,8 +46,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时59分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 18时53分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 18时53分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -76,15 +87,17 @@
           "time_info": "[10时51分 ~ 15时06分]"
         },
         {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
+          "title": "王楚然工作室AI剧宣",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            6,
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时55分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时53分]"
         },
         {
           "title": "摩尔线程AI Coding Plan上线",
@@ -93,21 +106,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
         {
-          "title": "王楚然工作室AI剧宣",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            4
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时56分]"
+          "time_info": "[17时55分 ~ 18时53分]"
         },
         {
           "title": "xAI与SpaceX已将股份交换比例定为0.1433。 xAI投资者每持有1股xAI股票可获得0.1433股SpaceX股票。 xAI高管也可选择现金，每股xAI股票可获得75.46美元的现金。（路透）",
@@ -173,26 +186,16 @@
           "time_info": "[00时54分 ~ 07时38分]"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
-        },
-        {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
           "url": "https://www.cls.cn/detail/2279188",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 18时53分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -248,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "汇丰：AI投资收益更利好股票而非信贷",
+          "url": "https://flash.jin10.com/detail/20260203181313892800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "新加坡新预算案或聚焦长期发展 民生及AI支持力度受关注",
