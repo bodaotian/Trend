@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T03:04:37.548858+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-02-05T04:46:48.014798+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时46分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时46分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时46分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -50,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时46分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时46分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -72,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时46分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
@@ -99,11 +100,12 @@
           "ranks": [
             27,
             28,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时46分]"
         }
       ]
     }
