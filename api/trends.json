@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:42:38.877957+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-02-05T21:22:48.873813+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[07时37分 ~ 21时22分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时48分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时48分 ~ 21时22分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -72,17 +72,6 @@
           "time_info": "[01时01分 ~ 07时37分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时42分]"
-        },
-        {
           "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
           "url": "https://www.cls.cn/detail/2281373",
           "source": "财联社热门",
@@ -92,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时55分 ~ 21时22分]"
         },
         {
           "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
@@ -105,8 +94,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时55分 ~ 21时22分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时42分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -158,6 +158,17 @@
           "time_info": "[01时01分 ~ 07时37分]"
         },
         {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时22分]"
+        },
+        {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
           "url": "https://www.cls.cn/detail/2281019",
           "source": "财联社热门",
@@ -170,17 +181,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时48分 ~ 16时58分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -211,11 +211,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 21时22分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
