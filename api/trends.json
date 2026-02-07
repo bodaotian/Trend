@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T03:33:46.501378+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-02-08T04:38:50.013328+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时38分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时38分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             3,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时38分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时38分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -63,8 +64,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时38分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -100,11 +101,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 04时38分]"
         }
       ]
     }
