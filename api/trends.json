@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T05:06:53.406870+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-10T05:50:49.180134+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时50分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时50分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时50分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时50分]"
         },
         {
           "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
@@ -94,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时50分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -105,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时50分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -114,11 +114,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时50分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -138,7 +139,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
