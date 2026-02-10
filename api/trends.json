@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-02-11T06:01:05.524659+08:00",
-  "total_titles_processed": 506,
-  "failed_sources": [
-    "baidu"
-  ],
+  "generated_at": "2026-02-11T06:53:46.711499+08:00",
+  "total_titles_processed": 544,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
@@ -17,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时53分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -30,8 +28,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时53分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -42,19 +40,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时53分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时53分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -63,11 +62,12 @@
           "ranks": [
             13,
             8,
-            23
+            23,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 04时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 06时53分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -163,11 +163,12 @@
           "ranks": [
             6,
             7,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 04时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 06时53分]"
         }
       ]
     }
