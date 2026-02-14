@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T10:46:22.995500+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-02-14T12:49:14.116917+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "小伙5个月用AI做120多个App",
@@ -37,11 +37,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 10时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 12时49分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -62,11 +63,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 10时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 12时49分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -94,17 +96,42 @@
           "time_info": "[00时59分 ~ 06时43分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 12时49分]"
+        },
+        {
           "title": "澎湃AI晚新闻丨2026年2月13日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
           "source": "澎湃新闻",
           "ranks": [
             12,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时51分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[04时51分 ~ 12时49分]"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -119,18 +146,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 04时52分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 10时46分]"
         },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
@@ -159,6 +174,18 @@
           "time_info": "[05时46分 ~ 07时40分]"
         },
         {
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 12时49分]"
+        },
+        {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
           "url": "https://wallstreetcn.com/livenews/3055331",
           "source": "华尔街见闻-快讯",
@@ -183,6 +210,28 @@
           "time_info": "[03时03分 ~ 04时52分]"
         },
         {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
           "url": "https://wallstreetcn.com/livenews/3055325",
           "source": "华尔街见闻-快讯",
@@ -195,26 +244,26 @@
           "time_info": "[03时03分 ~ 04时52分]"
         },
         {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
           "title": "科大讯飞吴晓如：AI核心业务推动出海提速 2025年公司海外营收突破10亿元",
           "url": "https://flash.jin10.com/detail/20260214095050281800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
+          "url": "https://flash.jin10.com/detail/20260214113020245800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
@@ -256,7 +305,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
