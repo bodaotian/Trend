@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T22:37:31.811980+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-02-15T23:34:52.269755+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -47,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时01分 ~ 22时37分]"
+          "appearance_count": 11,
+          "time_info": "[15时01分 ~ 23时34分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -90,11 +90,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时15分 ~ 22时37分]"
+          "appearance_count": 14,
+          "time_info": "[11时15分 ~ 23时34分]"
         },
         {
           "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
@@ -121,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时23分 ~ 22时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时23分 ~ 23时34分]"
         },
         {
           "title": "如何看待导演郭帆与 AI 短片《牌子》的互动，是否标志着 AI 创作正被主流影视圈所接受？",
@@ -166,11 +167,12 @@
             11,
             12,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时41分 ~ 22时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 23时34分]"
         },
         {
           "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
@@ -196,11 +198,12 @@
             15,
             16,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时41分 ~ 22时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 23时34分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -286,11 +289,12 @@
           "ranks": [
             20,
             18,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时44分 ~ 22时37分]"
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 23时34分]"
         },
         {
           "title": "印度AI峰会“五天赛程”安排",
@@ -341,6 +345,20 @@
           "time_info": "[11时15分 ~ 13时23分]"
         },
         {
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 23时34分]"
+        },
+        {
           "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
           "url": "https://wallstreetcn.com/livenews/3055529",
           "source": "华尔街见闻-快讯",
@@ -364,17 +382,15 @@
           "time_info": "[15时01分 ~ 16时45分]"
         },
         {
-          "title": "AI遇上最强春节档 Token通胀已成必然？",
-          "url": "https://www.cls.cn/detail/2290600",
-          "source": "财联社热门",
+          "title": "分析师：AI风险主导市场 投资者抛售相关股票",
+          "url": "https://flash.jin10.com/detail/20260215225328791800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            10,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 22时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
@@ -423,8 +439,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时34分]"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时34分]"
+        },
+        {
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时34分]"
         },
         {
           "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
@@ -461,26 +501,40 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
+          "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615186",
+          "source": "澎湃新闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时34分]"
+        },
+        {
+          "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时37分]"
+          "time_info": "[22时37分 ~ 23时34分]"
         },
         {
-          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
-          "url": "https://www.cls.cn/detail/2290580",
-          "source": "财联社热门",
+          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
+          "source": "澎湃新闻",
           "ranks": [
+            12,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时37分]"
+          "time_info": "[22时37分 ~ 23时34分]"
         },
         {
           "title": "今年的年货都是AI一手包办",
@@ -492,39 +546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
-          "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615186",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
         },
         {
           "title": "美国AI大牛盛赞杨丽萍千问节目",
