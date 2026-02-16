@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T22:53:44.676271+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-02-16T23:52:34.033177+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 22时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 23时52分]"
         },
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -98,8 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 22时53分]"
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 23时52分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -111,8 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时01分 ~ 22时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时01分 ~ 23时52分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -125,8 +125,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 22时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 23时52分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 23时52分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -153,8 +167,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 22时53分]"
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 23时52分]"
         },
         {
           "title": "AI女副总因反色情被炒鱿鱼",
@@ -185,20 +199,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 15时17分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 22时53分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -239,6 +239,22 @@
           "time_info": "[00时42分 ~ 07时36分]"
         },
         {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 23时52分]"
+        },
+        {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
           "source": "澎湃新闻",
@@ -252,20 +268,19 @@
           "time_info": "[00时42分 ~ 07时36分]"
         },
         {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            18,
-            16,
+            19,
+            17,
+            15,
             14,
-            13,
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时17分 ~ 22时53分]"
+          "time_info": "[17时01分 ~ 23时52分]"
         },
         {
           "title": "如何看待字节跳动也开始做 AI 芯片？",
@@ -283,19 +298,17 @@
           "time_info": "[15时17分 ~ 21时23分]"
         },
         {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            17,
-            15,
-            14,
-            13
+            12,
+            24,
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时01分 ~ 22时53分]"
+          "time_info": "[18时07分 ~ 23时52分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -308,18 +321,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时01分 ~ 21时23分]"
-        },
-        {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时07分 ~ 22时53分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -408,6 +409,18 @@
           "time_info": "[21时23分 ~ 22时53分]"
         },
         {
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时52分]"
+        },
+        {
           "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
           "url": "https://flash.jin10.com/detail/20260216172706571800",
           "source": "金十数据",
@@ -417,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://flash.jin10.com/detail/20260216233255611800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
@@ -439,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        },
-        {
-          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
-          "url": "https://wallstreetcn.com/livenews/3055756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
@@ -507,11 +520,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 22时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 23时52分]"
         },
         {
           "title": "全宇宙最高的年夜饭",
