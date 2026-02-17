@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T16:59:32.780754+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-02-17T18:02:55.009878+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 06时39分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -235,6 +246,28 @@
           "time_info": "[13时01分 ~ 14时08分]"
         },
         {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 18时02分]"
+        },
+        {
+          "title": "从模型到算力再到场景 AI点亮上海年味|2026新春走基层",
+          "url": "https://www.cls.cn/detail/2290743",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 18时02分]"
+        },
+        {
           "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
           "url": "https://flash.jin10.com/detail/20260217053748212800",
           "source": "金十数据",
@@ -245,6 +278,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时39分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 18时02分]"
+        },
+        {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 18时02分]"
         },
         {
           "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
@@ -287,51 +342,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
-          "url": "https://www.cls.cn/detail/2290780",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "从模型到算力再到场景 AI点亮上海年味|2026新春走基层",
-          "url": "https://www.cls.cn/detail/2290743",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
-          "url": "https://www.cls.cn/detail/2290903",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -424,6 +435,17 @@
           "time_info": "13时01分"
         },
         {
+          "title": "户口本只剩自己 刘维用AI和家人团圆",
+          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "法拉第未来联席CEO贾跃亭：法拉第未来将推出EAI Robotics改进计划，并建议对AIxC进行重大调整。",
           "url": "https://flash.jin10.com/detail/20260217095049061800",
           "source": "金十数据",
@@ -441,7 +463,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
