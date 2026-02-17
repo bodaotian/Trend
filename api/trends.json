@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:56:27.094038+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-02-17T16:59:32.780754+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -259,6 +259,17 @@
           "time_info": "[06时39分 ~ 07时39分]"
         },
         {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时59分]"
+        },
+        {
           "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
           "url": "https://flash.jin10.com/detail/20260217064752239800",
           "source": "金十数据",
@@ -268,6 +279,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "阿达尼计划在2035年前投资1000亿美元用于建设AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260217162041492800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "从模型到算力再到场景 AI点亮上海年味|2026新春走基层",
+          "url": "https://www.cls.cn/detail/2290743",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
@@ -287,7 +353,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -323,17 +389,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
-        },
-        {
-          "title": "当高定遇上AI，“上海定制”的变与不变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -378,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "阿达尼计划投资千亿美元建数据中心 瞄准印度AI领域的崛起机遇",
+          "url": "https://wallstreetcn.com/livenews/3055895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -407,11 +473,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E5%AE%99%E4%B8%BA%E4%BD%95%E6%98%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时59分]"
         }
       ]
     }
