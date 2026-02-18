@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T05:43:09.401619+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-02-19T06:49:02.360044+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时49分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时49分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时49分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时49分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时49分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -78,8 +78,23 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时49分]"
+        },
+        {
+          "title": "AI 编程会替代程序员吗?",
+          "url": "https://www.zhihu.com/question/1960623371101398549",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            13,
+            10,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "time_info": "[01时56分 ~ 06时49分]"
         },
         {
           "title": "英伟达深入印度市场，在当地构建一系列合作伙伴关系、作出基础设施承诺。该公司向印度数据中心公司Yotta Data Services和人工智能（AI）云平台公司E2E Networks Ltd.提供先进的Blackwell Ultra GPUs。",
@@ -93,6 +108,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时08分 ~ 06时49分]"
+        },
+        {
           "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
           "url": "https://wallstreetcn.com/livenews/3056417",
           "source": "华尔街见闻-快讯",
@@ -104,29 +130,52 @@
           "time_info": "01时56分"
         },
         {
-          "title": "AI 编程会替代程序员吗?",
-          "url": "https://www.zhihu.com/question/1960623371101398549",
-          "source": "知乎",
+          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
+          "url": "https://flash.jin10.com/detail/20260219051053365800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            14,
-            13,
-            10
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时49分]"
         },
         {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
+          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056488",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时49分]"
+        },
+        {
+          "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
+          "url": "https://wallstreetcn.com/livenews/3056487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时49分]"
+        },
+        {
+          "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3056483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时49分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -153,15 +202,15 @@
           "time_info": "[03时08分 ~ 04时52分]"
         },
         {
-          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
-          "url": "https://flash.jin10.com/detail/20260219051053365800",
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时49分"
         },
         {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
@@ -175,37 +224,15 @@
           "time_info": "01时56分"
         },
         {
-          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056488",
+          "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3056505",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
-          "url": "https://wallstreetcn.com/livenews/3056487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3056483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时49分"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
