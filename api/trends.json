@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T10:54:36.448855+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-02-18T13:02:29.071686+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 10时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 13时02分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -31,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 10时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 13时02分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -46,6 +47,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时59分 ~ 10时54分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -71,15 +83,16 @@
           "time_info": "[00时07分 ~ 05时51分]"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 13时02分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)加大力度研发面向人工智能时代的智能眼镜、吊坠和带摄像头的AirPods等产品。",
@@ -137,15 +150,16 @@
           "time_info": "01时59分"
         },
         {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 10时54分]"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
         },
         {
           "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
@@ -158,6 +172,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时43分]"
+        },
+        {
+          "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
+          "url": "https://wallstreetcn.com/articles/3765811",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 13时02分]"
         },
         {
           "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
@@ -219,26 +245,26 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
+          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
+          "url": "https://www.zhihu.com/question/11260916280",
+          "source": "知乎",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "13时02分"
         },
         {
-          "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
-          "url": "https://wallstreetcn.com/articles/3765811",
-          "source": "华尔街见闻",
+          "title": "高通将向印度AI战略基金投资至多1.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260218123104216800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "13时02分"
         },
         {
           "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
@@ -247,9 +273,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.toutiao.com/trending/7607001857601257508/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美国副总统万斯：对AI监控、隐私、政治倾向感到忧心忡忡。",
@@ -261,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "印度AI峰会差评如潮",
+          "url": "https://www.toutiao.com/trending/7607984521316797978/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "摩根大通：AI带来的扰动将推动小型银行合并",
