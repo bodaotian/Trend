@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T03:08:28.501862+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-02-19T04:52:22.206243+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时52分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -28,8 +28,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时52分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时52分]"
         },
         {
           "title": "英伟达深入印度市场，在当地构建一系列合作伙伴关系、作出基础设施承诺。该公司向印度数据中心公司Yotta Data Services和人工智能（AI）云平台公司E2E Networks Ltd.提供先进的Blackwell Ultra GPUs。",
@@ -43,6 +57,18 @@
           "time_info": "01时56分"
         },
         {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时52分]"
+        },
+        {
           "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
           "url": "https://wallstreetcn.com/livenews/3056417",
           "source": "华尔街见闻-快讯",
@@ -54,30 +80,6 @@
           "time_info": "01时56分"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
-        },
-        {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
@@ -86,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时52分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -98,8 +100,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时52分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -107,11 +109,47 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时52分]"
+        },
+        {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时08分]"
+          "time_info": "[03时08分 ~ 04时52分]"
+        },
+        {
+          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
+          "url": "https://wallstreetcn.com/livenews/3056438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时52分]"
+        },
+        {
+          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
+          "url": "https://wallstreetcn.com/livenews/3056432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时52分]"
         },
         {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
@@ -125,35 +163,13 @@
           "time_info": "01时56分"
         },
         {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
-          "url": "https://wallstreetcn.com/livenews/3056438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
           "url": "https://flash.jin10.com/detail/20260219022513866800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -164,18 +180,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
-          "url": "https://wallstreetcn.com/livenews/3056432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -191,13 +196,24 @@
           "time_info": "01时56分"
         },
         {
+          "title": "美国宣布网络安全与AI风险管理倡议",
+          "url": "https://wallstreetcn.com/livenews/3056433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
           "url": "https://flash.jin10.com/detail/20260219021420835800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -219,7 +235,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
