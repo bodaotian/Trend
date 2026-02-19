@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T05:42:20.080917+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-02-20T06:42:25.232743+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -39,19 +39,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
           "url": "https://wallstreetcn.com/articles/3765864",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -61,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -72,8 +73,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -83,8 +84,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -153,9 +154,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
@@ -215,8 +227,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时42分]"
         }
       ]
     }
