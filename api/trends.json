@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T17:40:19.467352+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-02-21T18:36:56.631258+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时54分 ~ 18时36分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时37分 ~ 17时40分]"
+          "appearance_count": 12,
+          "time_info": "[06时37分 ~ 18时36分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时54分 ~ 18时36分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -98,11 +98,12 @@
             24,
             25,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时54分 ~ 18时36分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -269,6 +270,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "微软任命AI高管执掌Xbox，重新致力于发展主机业务",
