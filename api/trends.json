@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:07:39.457554+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-02-21T22:35:47.296815+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时54分 ~ 21时07分]"
+          "appearance_count": 23,
+          "time_info": "[00时54分 ~ 22时35分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -68,11 +68,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时54分 ~ 21时07分]"
+          "appearance_count": 23,
+          "time_info": "[00时54分 ~ 22时35分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -103,8 +104,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时54分 ~ 21时07分]"
+          "appearance_count": 23,
+          "time_info": "[00时54分 ~ 22时35分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -163,6 +164,20 @@
           "time_info": "[00时54分 ~ 06时37分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时35分]"
+        },
+        {
           "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
           "url": "https://www.zhihu.com/question/2005731383423824873",
           "source": "知乎",
@@ -211,29 +226,17 @@
           "time_info": "[07时37分 ~ 15时40分]"
         },
         {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 21时07分]"
-        },
-        {
           "title": "印度AI峰会为何引发全球群嘲",
           "url": "https://www.toutiao.com/trending/7609263367261261318/",
           "source": "今日头条",
           "ranks": [
             2,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时30分 ~ 21时07分]"
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 22时35分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -332,6 +335,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原神 火影忍者",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "原神新年同人佳作",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9E%E6%96%B0%E5%B9%B4%E5%90%8C%E4%BA%BA%E4%BD%B3%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     }
