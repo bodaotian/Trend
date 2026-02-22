@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:09:35.158256+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-02-22T22:36:25.322278+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 21时09分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 22时36分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 21时09分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 22时36分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时55分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[10时55分 ~ 22时36分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -100,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 22时36分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -113,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 22时36分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -126,8 +126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时43分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 22时36分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -135,11 +135,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 21时09分]"
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 22时36分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -179,6 +180,18 @@
           "time_info": "[15时03分 ~ 17时41分]"
         },
         {
+          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时36分]"
+        },
+        {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
           "url": "https://wallstreetcn.com/articles/3765927",
           "source": "华尔街见闻",
@@ -188,17 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        },
-        {
-          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2008005974397576586",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -237,11 +239,12 @@
             9,
             15,
             10,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 21时09分]"
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 22时36分]"
         },
         {
           "title": "飞碟社官宣,原神动画稳了",
@@ -249,11 +252,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时57分 ~ 21时09分]"
+          "appearance_count": 11,
+          "time_info": "[12时57分 ~ 22时36分]"
         },
         {
           "title": "原神新年同人佳作",
