@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:09:11.137744+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-02-23T19:47:11.888877+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 18时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 19时47分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -59,11 +59,25 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 18时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 19时47分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 19时47分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -77,16 +91,17 @@
           "time_info": "[00时41分 ~ 10时55分]"
         },
         {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            13
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 18时09分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 19时47分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -103,19 +118,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 06时35分]"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 18时09分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -153,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 17时01分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -205,8 +218,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 18时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 19时47分]"
         },
         {
           "title": "原神同人新春会",
