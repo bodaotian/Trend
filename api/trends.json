@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T17:01:45.725937+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-02-23T18:09:11.137744+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 17时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 18时09分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 17时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 18时09分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -85,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 17时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 18时09分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -103,6 +103,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 06时35分]"
+        },
+        {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 18时09分]"
         },
         {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
@@ -129,18 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 13时07分]"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 17时01分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -200,11 +201,12 @@
             10,
             11,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 17时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 18时09分]"
         },
         {
           "title": "原神同人新春会",
