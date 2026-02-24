@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T10:57:09.397567+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-02-24T13:01:34.996240+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -57,8 +57,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时11分 ~ 10时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 13时01分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -77,11 +77,26 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时01分]"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时05分 ~ 13时01分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -91,32 +106,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时01分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时05分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 13时01分]"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -194,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "外资们也在频繁提AI，如何看2026年行情？",
+          "url": "https://www.cls.cn/detail/2292944",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
