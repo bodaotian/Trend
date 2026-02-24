@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T13:01:34.996240+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-02-24T14:10:32.075423+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -61,17 +61,6 @@
           "time_info": "[01时11分 ~ 13时01分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时05分 ~ 08时04分]"
-        },
-        {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
           "url": "https://www.cls.cn/detail/2293058",
           "source": "财联社热门",
@@ -81,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 14时10分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -95,8 +84,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时05分 ~ 13时01分]"
+          "appearance_count": 8,
+          "time_info": "[06时05分 ~ 14时10分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时05分 ~ 08时04分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -106,8 +106,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 14时10分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -118,8 +118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 14时10分]"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -170,11 +170,12 @@
           "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时10分]"
         },
         {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
@@ -205,7 +206,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
