@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:07:41.328832+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-26T15:57:09.100999+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,20 @@
           "time_info": "[00时42分 ~ 07时54分]"
         },
         {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 15时57分]"
+        },
+        {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
           "url": "https://www.cls.cn/detail/2295374",
           "source": "财联社热门",
@@ -66,21 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 14时07分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 14时07分]"
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 15时57分]"
         },
         {
           "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
@@ -91,8 +92,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 15时57分]"
+        },
+        {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 15时57分]"
+        },
+        {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 15时57分]"
         },
         {
           "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
@@ -141,18 +166,6 @@
           "time_info": "[02时07分 ~ 10时48分]"
         },
         {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 14时07分]"
-        },
-        {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3059064",
           "source": "华尔街见闻-快讯",
@@ -189,27 +202,17 @@
           "time_info": "[05时58分 ~ 06时43分]"
         },
         {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
           "title": "AI圈爆火的FARS是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时57分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -456,11 +459,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350989&amp;topic_name=%E6%9C%89%E7%94%B7%E7%8B%82%E6%8A%BD%21%E5%8E%9F%E7%A5%9E%E5%8F%8C%E7%94%B7%E6%B1%A0%E7%88%86%E6%9D%80%E9%B8%A3%E6%BD%AE",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 15时57分]"
         },
         {
           "title": "原神愚人众执行官里女士算是旅行者间接杀死的，为何仆人木偶少女对此毫无表示？",
@@ -469,7 +473,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         }
