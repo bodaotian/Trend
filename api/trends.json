@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:40:27.967412+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-02-27T21:18:48.351647+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 21时18分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 21时18分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -91,11 +91,12 @@
             21,
             15,
             12,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 19时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 21时18分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -108,11 +109,12 @@
             19,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 21时18分]"
         },
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -122,8 +124,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时18分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -137,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 21时18分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -579,11 +581,12 @@
             21,
             22,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 19时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 21时18分]"
         },
         {
           "title": "如何评价 2026 年 2 月米哈游《原神》月之五卡池，法尔伽，菲林斯？",
