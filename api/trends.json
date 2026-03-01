@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T02:48:24.625609+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-03-02T03:31:13.788921+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时31分]"
         },
         {
           "title": "AI短剧",
@@ -28,8 +28,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时31分]"
         }
       ]
     }
