@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T03:31:13.788921+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-03-02T04:38:11.115869+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时38分]"
         },
         {
           "title": "AI短剧",
@@ -28,8 +29,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时38分]"
+        },
+        {
+          "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
+          "url": "https://wallstreetcn.com/livenews/3061282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     }
