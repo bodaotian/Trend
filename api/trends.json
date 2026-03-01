@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:35:40.811708+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-03-01T19:28:58.852562+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
             10,
             9,
             8,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 18时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 19时28分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -295,11 +296,12 @@
           "url": "https://www.zhihu.com/question/2011440581239403245",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
         }
       ]
     },
