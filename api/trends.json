@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T22:53:46.249741+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-03-02T23:51:52.389632+08:00",
+  "total_titles_processed": 1954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -43,11 +43,12 @@
           "ranks": [
             12,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时57分 ~ 22时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 23时51分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时57分 ~ 22时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 23时51分]"
         },
         {
           "title": "千问AI眼镜开启预约",
@@ -73,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 23时51分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -86,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时57分 ~ 22时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 23时51分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -116,17 +117,6 @@
           "time_info": "[10时49分 ~ 12时56分]"
         },
         {
-          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
-          "url": "https://www.zhihu.com/question/2011022777268856579",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 21时19分]"
-        },
-        {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
           "source": "澎湃新闻",
@@ -136,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 23时51分]"
         },
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -148,8 +138,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 23时51分]"
+        },
+        {
+          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
+          "url": "https://www.zhihu.com/question/2011022777268856579",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 21时19分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -173,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
+          "url": "https://wallstreetcn.com/livenews/3062029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "flydubai（迪拜航空）暂停所有迪拜航班，直至当地时间周二下午3点。（彭博）",
@@ -214,7 +226,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
