@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:18:22.375706+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2026-03-03T22:56:06.365672+08:00",
+  "total_titles_processed": 1950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -104,6 +104,19 @@
           "time_info": "[04时48分 ~ 13时58分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时56分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -115,16 +128,17 @@
           "time_info": "[01时01分 ~ 01时57分]"
         },
         {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7
+            6,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 21时18分]"
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 22时56分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -152,6 +166,17 @@
           "time_info": "17时56分"
         },
         {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "从被动观望转向主动布局，公募“全环节”直面AI颠覆性影响",
           "url": "https://wallstreetcn.com/livenews/3062199",
           "source": "华尔街见闻-快讯",
@@ -161,18 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时18分]"
         },
         {
           "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
@@ -342,6 +355,17 @@
           "time_info": "[15时06分 ~ 16时55分]"
         },
         {
+          "title": "伊拉克开始在Rumaila（鲁迈拉）停产石油，因为储油设施已满。 将Qurna 2的石油减产45万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3062839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
           "url": "https://flash.jin10.com/detail/20260303055516565800",
           "source": "金十数据",
@@ -375,6 +399,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3062123",
           "source": "华尔街见闻-快讯",
@@ -403,9 +438,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "行业消息人士称，印度最大LNG进口商Petronet公司已通知印度天然气公司（GAIL）及其他天然气公司，来自卡塔尔的液化天然气供应将减少。",
@@ -417,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "AI表格Agent接入钉钉群",
@@ -461,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "AI定制元宵节祝福语",
@@ -516,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "韩国AI芯片初创公司Rebellions冲击今年上市 挑战英伟达市场地位",
+          "url": "https://flash.jin10.com/detail/20260303222048402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
