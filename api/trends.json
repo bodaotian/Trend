@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T13:58:17.308961+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-03T15:06:34.124475+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -42,11 +42,12 @@
           "ranks": [
             11,
             14,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 15时06分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -77,6 +78,17 @@
           "time_info": "[04时48分 ~ 13时58分]"
         },
         {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 15时06分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -86,17 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 01时57分]"
-        },
-        {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时58分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -113,6 +114,19 @@
           "time_info": "[03时01分 ~ 07时36分]"
         },
         {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时52分 ~ 15时06分]"
+        },
+        {
           "title": "从被动观望转向主动布局，公募“全环节”直面AI颠覆性影响",
           "url": "https://wallstreetcn.com/livenews/3062199",
           "source": "华尔街见闻-快讯",
@@ -124,16 +138,17 @@
           "time_info": "07时36分"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
+          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
+          "source": "澎湃新闻",
           "ranks": [
+            9,
             8,
             7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时58分]"
+          "time_info": "[12时55分 ~ 15时06分]"
         },
         {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
@@ -171,18 +186,6 @@
           "time_info": "[05时42分 ~ 07时36分]"
         },
         {
-          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时58分]"
-        },
-        {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
           "source": "澎湃新闻",
@@ -192,6 +195,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时37分 ~ 07时36分]"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2011932852577650327",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 15时06分]"
         },
         {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
@@ -278,17 +292,6 @@
           "time_info": "[04时48分 ~ 05时42分]"
         },
         {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
           "url": "https://flash.jin10.com/detail/20260303055516565800",
           "source": "金十数据",
@@ -344,6 +347,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "行业消息人士称，印度最大LNG进口商Petronet公司已通知印度天然气公司（GAIL）及其他天然气公司，来自卡塔尔的液化天然气供应将减少。",
+          "url": "https://flash.jin10.com/detail/20260303145716546800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "AI表格Agent接入钉钉群",
           "url": "https://wallstreetcn.com/livenews/3062395",
           "source": "华尔街见闻-快讯",
@@ -364,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "行业消息人士称，印度天然气公司（GAIL）、印度石油公司自周一起减少对本土买家的天然气供应。",
+          "url": "https://flash.jin10.com/detail/20260303145559407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "AI定制元宵节祝福语",
@@ -399,6 +424,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "AI生成 男女身高",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "报道：马斯克旗下X与xAI拟偿还175亿美元债务 SpaceX上市临近",
           "url": "https://wallstreetcn.com/livenews/3062123",
           "source": "华尔街见闻-快讯",
@@ -408,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
+          "url": "https://wallstreetcn.com/livenews/3062468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     }
