@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:20:46.339489+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2026-03-05T22:57:09.062222+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 21时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 22时57分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
@@ -107,6 +107,19 @@
           "time_info": "[12时53分 ~ 19时42分]"
         },
         {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 22时57分]"
+        },
+        {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
           "url": "https://www.cls.cn/detail/2303258",
           "source": "财联社热门",
@@ -118,6 +131,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时56分 ~ 21时20分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 22时57分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -153,17 +177,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 21时20分]"
-        },
-        {
           "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
           "url": "https://flash.jin10.com/detail/20260305042235977800",
           "source": "金十数据",
@@ -173,18 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 21时20分]"
         },
         {
           "title": "比Deepfake更严重的AI出现了",
