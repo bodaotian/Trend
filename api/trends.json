@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:42:01.550023+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-03-05T21:20:46.339489+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
             22,
             24,
             26,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时58分 ~ 19时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时58分 ~ 21时20分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
@@ -115,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 21时20分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -152,6 +153,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 21时20分]"
+        },
+        {
           "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
           "url": "https://flash.jin10.com/detail/20260305042235977800",
           "source": "金十数据",
@@ -163,15 +175,30 @@
           "time_info": "04时41分"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
           "ranks": [
-            7
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时20分]"
+        },
+        {
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            14,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 21时20分]"
         },
         {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
@@ -222,19 +249,6 @@
           "time_info": "[03时03分 ~ 04时41分]"
         },
         {
-          "title": "比Deepfake更严重的AI出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时42分]"
-        },
-        {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
           "url": "https://www.cls.cn/detail/2303137",
           "source": "财联社热门",
@@ -280,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时39分]"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
