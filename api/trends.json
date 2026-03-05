@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T03:57:46.497937+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-06T04:50:04.320620+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 04时50分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -26,19 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 04时50分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
           "url": "https://www.cls.cn/detail/2304328",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 04时50分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -46,11 +47,60 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            23
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 04时50分]"
+        },
+        {
+          "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
+          "url": "https://wallstreetcn.com/livenews/3064643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时57分]"
+          "time_info": "[03时57分 ~ 04时50分]"
+        },
+        {
+          "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
+          "url": "https://flash.jin10.com/detail/20260306031802688800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时50分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
+          "url": "https://wallstreetcn.com/livenews/3064630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时50分]"
+        },
+        {
+          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
+          "url": "https://wallstreetcn.com/livenews/3064629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时50分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -62,28 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
-          "url": "https://wallstreetcn.com/livenews/3064643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
-          "url": "https://flash.jin10.com/detail/20260306031802688800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
         },
         {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
@@ -103,29 +131,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
-          "url": "https://wallstreetcn.com/livenews/3064630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
-          "url": "https://wallstreetcn.com/livenews/3064629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         }
