@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T04:36:24.917692+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-03-08T05:31:11.103121+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 05时31分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
@@ -29,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 05时31分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -41,21 +41,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时36分]"
-        },
-        {
-          "title": "TES教练 Naiyou说季后赛输的都是假赛",
-          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 05时31分]"
         },
         {
           "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
@@ -68,8 +55,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 05时31分]"
         },
         {
           "title": "3人48小时做出5亿播放量AI短剧",
@@ -79,10 +66,24 @@
             15,
             29,
             30,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 05时31分]"
+        },
+        {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
           "time_info": "[00时38分 ~ 04时36分]"
         },
         {
