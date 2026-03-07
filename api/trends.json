@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T06:33:39.046112+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-03-08T07:32:19.858280+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -15,33 +15,6 @@
             2,
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 06时33分]"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            15,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 06时33分]"
-        },
-        {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            19
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -59,8 +32,22 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 07时32分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时32分]"
         },
         {
           "title": "3人48小时做出5亿播放量AI短剧",
@@ -74,8 +61,22 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时32分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时32分]"
         },
         {
           "title": "TES教练 Naiyou说季后赛输的都是假赛",
@@ -160,6 +161,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时46分 ~ 03时30分]"
+        },
+        {
+          "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32723518",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     }
