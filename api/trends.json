@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-07T07:36:42.717939+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-03-07T10:38:57.431795+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "逐帧分析TES赛场Naiyou操作",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时36分]"
-        },
         {
           "title": "真实锐评TES打野Naiyou被调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
@@ -28,30 +16,45 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时38分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
           "url": "https://www.cls.cn/detail/2305626",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时38分]"
+        },
+        {
+          "title": "逐帧分析TES赛场Naiyou操作",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时38分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时38分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -76,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时38分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -117,6 +120,19 @@
           "time_info": "[04时42分 ~ 05时38分]"
         },
         {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            23,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 10时38分]"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -131,18 +147,6 @@
           "title": "国产AI短剧《霍去病》火到海外",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
           "source": "百度热搜",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时44分]"
-        },
-        {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
           "ranks": [
             23,
             28
@@ -176,15 +180,103 @@
           "time_info": "[03时00分 ~ 03时42分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "TESnaiyou 假赛",
+          "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
           "url": "https://www.zhihu.com/question/1992302419741266883",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
+          "url": "https://flash.jin10.com/detail/20260307085433321800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "青岛：发布首批OPC AI工具包清单",
+          "url": "https://wallstreetcn.com/livenews/3065544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "两会专访｜王遵来委员：AI不是中医的颠覆者，是传承创新的加速器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712020",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "据英国金融时报：美国规则草案要求，民用政府合同应允许“任何合法”用途使用（AI）模型。",
+          "url": "https://flash.jin10.com/detail/20260307080944483800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     }
