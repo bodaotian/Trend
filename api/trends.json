@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:37:34.796318+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-03-07T16:42:27.913661+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 15时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 16时42分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -104,6 +104,18 @@
           "time_info": "[00时54分 ~ 07时36分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 16时42分]"
+        },
+        {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
           "url": "https://www.zhihu.com/question/2013292943084058316",
           "source": "知乎",
@@ -115,16 +127,16 @@
           "time_info": "[00时54分 ~ 05时38分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 16时42分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -138,18 +150,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 14时55分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 15时37分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -247,6 +247,18 @@
           "time_info": "[03时00分 ~ 03时42分]"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 16时42分]"
+        },
+        {
           "title": "AI时代人的创作还有意义吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%88%9B%E4%BD%9C%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
           "source": "bilibili 热搜",
@@ -323,17 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
-        },
-        {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         },
         {
           "title": "据英国金融时报：美国规则草案要求，民用政府合同应允许“任何合法”用途使用（AI）模型。",
